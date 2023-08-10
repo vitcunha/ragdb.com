@@ -1,0 +1,32 @@
+[
+  {
+    "Map": "first_map",
+    "MobDisplayName": "Andre",
+    "MobID": 1184,
+    "MobCount": 20
+  },
+  {
+    "Map": "second_map",
+    "MobDisplayName": "Ant Egg",
+    "MobID": 1097,
+    "MobCount": 20
+  },
+  {
+    "Map": "third_map",
+    "MobDisplayName": "Deniro",
+    "MobID": 1184,
+    "MobCount": 20
+  },
+  {
+    "Map": "fourth_map",
+    "MobDisplayName": "Farmiliar",
+    "MobID": 1007,
+    "MobCount": 10
+  },
+  {
+    "Map": "fifth_map",
+    "MobDisplayName": "Giearth",
+    "MobID": 1121,
+    "MobCount": 10
+  }
+]

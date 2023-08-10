@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+}
+
+.dropEntry {
+  display: flex;
+  margin: 10px 0;
+  gap: 10px;
+  align-items: center;
+  cursor: pointer;
+}
+
+.dropEntry:hover {
+  background: lightblue;
+  cursor: pointer;
+}
