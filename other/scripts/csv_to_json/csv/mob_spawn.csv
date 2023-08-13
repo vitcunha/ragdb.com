@@ -1,0 +1,858 @@
+Map,MobDisplayName,MobID,MobCount
+anthell01,Andre,1095,20
+anthell01,Ant Egg,1097,20
+anthell01,Deniro,1105,20
+anthell01,Farmiliar,1005,10
+anthell01,Giearth,1121,10
+anthell01,Phreeoni,1159,1
+anthell01,Piere,1160,20
+anthell01,Vitata,1176,20
+anthell02,Andre,1095,30
+anthell02,Ant Egg,1097,10
+anthell02,Deniro,1105,30
+anthell02,Farmiliar,1005,20
+anthell02,Giearth,1121,10
+anthell02,Maya,1147,1
+anthell02,Piere,1160,35
+anthell02,Vitata,1176,25
+iz_dun00,Hydra,1068,25
+iz_dun00,Kukre,1070,35
+iz_dun00,Marina,1141,10
+iz_dun00,Plankton,1161,40
+iz_dun00,Vadon,1066,25
+iz_dun01,Cornutus,1067,10
+iz_dun01,Hydra,1068,20
+iz_dun01,Kukre,1070,20
+iz_dun01,Marina,1141,30
+iz_dun01,Plankton,1161,5
+iz_dun01,Thara Frog,1034,30
+iz_dun01,Vadon,1066,30
+iz_dun02,Cornutus,1067,30
+iz_dun02,Hydra,1068,20
+iz_dun02,Marse,1067,20
+iz_dun02,Obeaune,1044,20
+iz_dun02,Thara Frog,1034,20
+iz_dun03,Hydra,1068,40
+iz_dun03,Marc,1045,10
+iz_dun03,Marine Sphere,1142,20
+iz_dun03,Marse,1069,15
+iz_dun03,Merman,1264,10
+iz_dun03,Obeaune,1044,25
+iz_dun03,Phen,1158,20
+iz_dun03,Sword Fish,1069,20
+iz_dun04,Deviace,1108,5
+iz_dun04,Hydra,1068,20
+iz_dun04,Marc,1045,25
+iz_dun04,Marine Sphere,1142,20
+iz_dun04,Marse,1069,15
+iz_dun04,Merman,1264,10
+iz_dun04,Obeaune,1044,20
+iz_dun04,Penomena,1216,5
+iz_dun04,Sword Fish,1069,10
+c_tower1,Archer Skeleton,1016,10
+c_tower1,Baphomet Jr,1102,25
+c_tower1,Bathory,1102,10
+c_tower1,Punk,1199,25
+c_tower1,Clock Tower Manager,1270,10
+c_tower2,Alarm,1193,5
+c_tower2,Archer Skeleton,1016,30
+c_tower2,Clock,1269,25
+c_tower2,Deviruchi,1109,25
+c_tower2,Punk,1199,25
+c_tower2,Clock Tower Manager,1270,10
+c_tower3,Alarm,1193,30
+c_tower3,Archer Skeleton,1016,35
+c_tower3,Clock Tower Manager,1270,10
+c_tower4,Alarm,1193,20
+c_tower4,Archer Skeleton,1016,25
+c_tower4,Clock Tower Manager,1270,10
+c_tower4,Executioner,1205,1
+c_tower4,Abysmal Knight,1219,1
+c_tower4,Mimic,1191,10
+c_tower4,Rideword,1195,15
+alde_dun01,Drainliar,1111,25
+alde_dun01,Stem Worm,1215,60
+alde_dun02,Drainliar,1111,10
+alde_dun02,High Orc,1213,70
+alde_dun02,Orc Archer,1189,40
+alde_dun03,Brilight,1211,40
+alde_dun03,Cramp,1209,40
+alde_dun03,Penomena,1216,60
+alde_dun03,Stem Worm,1215,10
+alde_dun04,Alligator,1271,30
+alde_dun04,Ambernite,1094,20
+mjo_dun01,Andre,1095,15
+mjo_dun01,Deniro,1105,15
+mjo_dun01,Drainliar,1111,10
+mjo_dun01,Farmiliar,1005,15
+mjo_dun01,Giearth,1121,10
+mjo_dun01,Martin,1145,10
+mjo_dun01,Piere,1160,15
+mjo_dun01,Skel Worker,1169,10
+mjo_dun01,Smokie,1056,10
+mjo_dun01,Tarou,1175,20
+mjo_dun02,Drainliar,1111,10
+mjo_dun02,Martin,1145,30
+mjo_dun02,Skel Worker,1169,20
+mjo_dun03,Evil Druid,1117,5
+mjo_dun03,Martin,1145,10
+mjo_dun03,Myst,1151,20
+mjo_dun03,Skel Worker,1169,50
+prt_sewb1,Farmiliar,1005,20
+prt_sewb1,Spore,1014,20
+prt_sewb1,Tarou,1175,10
+prt_sewb1,Thief Bug,1051,60
+prt_sewb1,Thief Bug Egg,1003,40
+prt_sewb2,Farmiliar,1005,10
+prt_sewb2,Plankton,1161,5
+prt_sewb2,Spore,1014,15
+prt_sewb2,Tarou,1175,25
+prt_sewb2,Hydra,1068,5
+prt_sewb2,Thief Bug,1051,50
+prt_sewb2,Thief Bug,1053,20
+prt_sewb2,Thief Bug Egg,1003,20
+prt_sewb3,Farmiliar,1005,20
+prt_sewb3,Hydra,1068,5
+prt_sewb3,Poporing,1031,15
+prt_sewb3,Tarou,1175,25
+prt_sewb3,Thief Bug,1051,45
+prt_sewb3,Thief Bug,1053,45
+prt_sewb3,Thief Bug Egg,1003,10
+prt_sewb4,Golden Bug,1086,1
+prt_sewb4,Thief Bug,1051,50
+prt_sewb4,Thief Bug,1053,50
+prt_sewb4,Thief Bug,1054,50
+prt_sewb4,Thief Bug Egg,1003,20
+gef_dun00,Blue Plant,1079,5
+gef_dun00,Dustiness,1114,10
+gef_dun00,Farmiliar,1005,10
+gef_dun00,Poison Spore,1077,20
+gef_dun00,Poporing,1031,20
+gef_dun01,Argos,1100,15
+gef_dun01,Dustiness,1114,15
+gef_dun01,Jakk,1130,5
+gef_dun01,Poison Spore,1077,10
+gef_dun01,Whisper,1179,15
+gef_dun02,Argos,1100,10
+gef_dun02,Bathory,1102,5
+gef_dun03,Doppelganger,1046,1
+gef_dun02,Jakk,1130,10
+gef_dun03,Joker,1131,5
+gef_dun02,Marionette,1143,10
+gef_dun02,Myst,1151,10
+gef_dun02,Nightmare,1061,5
+gef_dun02,Whisper,1179,20
+gef_dun03,Argos,1100,20
+gef_dun03,Bathory,1102,5
+gef_dun03,Jakk,1130,10
+gef_dun02,Marionette,1143,20
+gef_dun03,Myst,1151,20
+gef_dun03,Nightmare,1061,5
+gef_dun03,Whisper,1179,20
+gef_fild00,Chonchon,1011,12
+gef_fild00,Fabre,1007,15
+gef_fild00,Lunatic,1063,15
+gef_fild00,Martin,1145,5
+gef_fild00,Poring,1002,30
+gef_fild00,Pupa,1008,15
+gef_fild00,Roda Frog,1012,15
+gef_fild00,Willow,1010,30
+gef_fild01,Hornet,1004,20
+gef_fild01,Poporing,1031,15
+gef_fild01,Roda Frog,1012,30
+gef_fild01,Toad,1089,1
+gef_fild02,Coco,1104,15
+gef_fild02,Goblin,1123,15
+gef_fild02,Goblin,1124,15
+gef_fild02,Goblin,1125,15
+gef_fild02,Goblin,1126,15
+gef_fild02,Goblin Archer,1258,5
+gef_fild02,Horn,1128,15
+gef_fild02,Poporing,1031,15
+gef_fild03,Coco,1104,25
+gef_fild03,Poporing,1031,25
+gef_fild03,Smokie,1056,25
+gef_fild04,Ambernite,1094,20
+gef_fild04,Chonchon,1011,20
+gef_fild04,Fabre,1007,15
+gef_fild04,Poring,1002,15
+gef_fild04,Pupa,1008,10
+gef_fild04,Roda Frog,1012,15
+gef_fild04,Willow,1010,15
+gef_fild05,Chonchon,1011,10
+gef_fild05,Fabre,1007,15
+gef_fild05,Poring,1002,15
+gef_fild05,Rocker,1052,10
+gef_fild05,Roda Frog,1012,15
+gef_fild05,Savage Babe,1167,5
+gef_fild05,Willow,1010,10
+gef_fild06,Creamy,1018,10
+gef_fild06,Petite,1155,15
+gef_fild06,Petite,1156,15
+gef_fild06,Poporing,1031,7
+gef_fild06,Stainer,1174,10
+gef_fild07,Chonchon,1011,20
+gef_fild07,Fabre,1007,20
+gef_fild07,Poring,1002,20
+gef_fild07,Pupa,1008,15
+gef_fild07,Roda Frog,1012,10
+gef_fild07,Willow,1010,25
+gef_fild08,Creamy,1018,15
+gef_fild08,Kobold,1133,10
+gef_fild08,Kobold,1134,10
+gef_fild08,Kobold,1135,10
+gef_fild08,Kobold,1136,10
+gef_fild08,Kobold,1137,10
+gef_fild08,Kobold Archer,1282,5
+gef_fild08,Poporing,1031,10
+gef_fild08,Stainer,1174,15
+gef_fild09,Ambernite,1094,15
+gef_fild09,Hornet,1004,10
+gef_fild09,Poring,1002,5
+gef_fild10,Horn,1128,25
+gef_fild10,Orc Archer,1189,5
+gef_fild10,Orc Hero,1189,1
+gef_fild10,Orc Lady,1273,20
+gef_fild10,Orc Warrior,1023,30
+gef_fild10,Poporing,1031,10
+gef_fild10,Yoyo,1057,10
+gef_fild11,Coco,1104,10
+gef_fild11,Goblin,1122,15
+gef_fild11,Goblin,1123,15
+gef_fild11,Goblin,1124,15
+gef_fild11,Goblin,1125,15
+gef_fild11,Goblin,1126,15
+gef_fild11,Goblin Archer,1258,10
+gef_fild11,Poporing,1031,5
+gef_fild11,Smokie,1056,10
+gef_fild12,Kobold,1133,20
+gef_fild12,Kobold,1134,20
+gef_fild12,Kobold,1135,20
+gef_fild12,Kobold Archer,1282,10
+gef_fild13,Ambernite,1094,15
+gef_fild13,Creamy,1018,15
+gef_fild13,Poporing,1031,5
+gef_fild14,Goblin Archer,1258,10
+gef_fild14,High Orc,1213,10
+gef_fild14,Orc Archer,1189,10
+gef_fild14,Orc Lady,1273,20
+gef_fild14,Steam Goblin,1280,10
+gl_cas01,Alice,1275,20
+gl_cas01,Carat,1267,20
+gl_cas01,Joker,1131,20
+gl_cas01,Dark Frame,1260,20
+gl_cas01,Khalitzburg,1132,15
+gl_cas01,Rideword,1195,10
+gl_cas01,Tirfing,1204,1
+gl_cas01,Whisper,1179,20
+gl_cas02,Alice,1275,20
+gl_cas02,Archer Skeleton,1016,10
+gl_cas02,Baphomet,1039,1
+gl_cas02,Baphomet Jr,1101,15
+gl_cas02,Deviruchi,1109,5
+gl_cas02,Khalitzburg,1132,5
+gl_cas02,Abysmal Knight,1219,5
+gl_cas02,Marionette,1143,5
+gl_cas02,Mimic,1191,1
+gl_cas02,Mimic,1191,1
+gl_cas02,Nightmare,1061,10
+gl_cas02,Raydric Archer,1276,5
+gl_cas02,Rideword,1195,10
+gl_cas02,Wanderer,1208,10
+gl_dun01,Arclouse,1194,30
+gl_dun01,Stalatic Golem,1278,20
+gl_dun02,Gargoyle,1253,20
+gl_knt01,Black Mushroom,1084,5
+gl_knt01,Brilight,1211,5
+gl_knt01,Evil Druid,1117,5
+gl_knt01,Flora,1118,10
+gl_knt01,Mandragora,1020,10
+gl_knt01,Raydric Archer,1276,15
+gl_knt01,Raydric,1163,15
+gl_knt01,Rideword,1195,5
+gl_knt01,Giant Whisper,1186,1
+gl_knt02,Bloody Knight,1268,1
+gl_knt02,Joker,1131,10
+gl_knt02,Khalitzburg,1132,10
+gl_knt02,Raydric Archer,1276,5
+gl_knt02,Raydric,1163,20
+gl_knt02,Whisper,1179,5
+glast_01,Bathory,1102,10
+glast_01,Blue Plant,1079,5
+glast_01,Green Plant,1080,5
+glast_01,Jakk,1130,5
+glast_01,Abysmal Knight,1219,1
+glast_01,Myst,1151,5
+glast_01,Poison Spore,1077,10
+glast_01,Shining Plant,1083,1
+gl_church,Brilight,1211,5
+gl_church,Evil Druid,1117,1
+gl_church,Ghoul,1036,15
+gl_church,Joker,1131,5
+gl_church,Nightmare,1061,10
+gl_church,Whisper,1179,10
+gl_chyard,Dark Lord,1272,1
+gl_chyard,Ghoul,1036,15
+gl_chyard,Hunter Fly,1035,5
+gl_chyard,Mimic,1191,5
+gl_chyard,Skel Prisoner,1196,15
+gl_chyard,Wraith,1192,5
+gl_chyard,Zombie,1015,10
+gl_chyard,Zombie Prisoner,1197,10
+gl_step,Mimic,1191,10
+gl_step,Raydric Archer,1276,10
+gl_step,Wind Ghost,1236,5
+gl_step,Wraith,1192,20
+gl_in01,Alice,1275,10
+gl_in01,Dark Frame,1260,20
+gl_in01,Marionette,1143,20
+gl_in01,Rideword,1195,10
+gl_in01,Sage Worm,1281,20
+gl_in01,Wanderer,1208,1
+gl_sew01,Anolian,1206,10
+gl_sew01,Cramp,1209,5
+gl_sew01,Drainliar,1111,5
+gl_sew02,Anolian,1206,20
+gl_sew02,Cramp,1209,10
+gl_sew02,Gargoyle,1253,5
+gl_sew03,Cramp,1209,20
+gl_sew03,Gargoyle,1253,5
+gl_sew03,Sting,1207,5
+gl_sew04,Sting,1207,30
+gl_sew04,Wind Ghost,1263,5
+gl_prison,Brilight,1211,5
+gl_prison,Hunter Fly,1035,10
+gl_prison,Skel Prisoner,1196,20
+gl_prison,Whisper,1179,10
+gl_prison,Zealtous,1200,1
+gl_prison,Zombie Prisoner,1197,10
+gl_prison,Arclouse,1194,5
+gl_prison1,Brilight,1211,5
+gl_prison1,Cramp,1209,5
+gl_prison1,Injustice,1257,10
+gl_prison1,Zealtous,1200,1
+prt_maze01,Argiope,1099,2
+prt_maze01,Argos,1100,2
+prt_maze01,Bigfoot,1060,2
+prt_maze01,Caramel,1103,2
+prt_maze01,Chonchon,1011,2
+prt_maze01,Coco,1104,2
+prt_maze01,Creamy,1018,1
+prt_maze01,Dustiness,1114,2
+prt_maze01,Fabre,1007,2
+prt_maze01,Horn,1128,2
+prt_maze01,Hunter Fly,1035,2
+prt_maze01,Lunatic,1063,2
+prt_maze01,Mantis,1139,1
+prt_maze01,Martin,1145,2
+prt_maze01,Poporing,1031,2
+prt_maze01,Poring,1002,2
+prt_maze01,Pupa,1008,2
+prt_maze01,Rocker,1052,2
+prt_maze01,Savage,1166,1
+prt_maze01,Savage,1166,2
+prt_maze01,Sidewinder,1037,1
+prt_maze01,Smokie,1056,2
+prt_maze01,Snake,1025,2
+prt_maze01,Stainer,1174,2
+prt_maze01,Steel Chonchon,1042,2
+prt_maze01,Wolf,1013,2
+prt_maze01,Yoyo,1057,2
+prt_maze02,Bigfoot,1060,10
+prt_maze02,Poporing,1031,5
+prt_maze03,Argiope,1099,1
+prt_maze03,Argos,1100,1
+prt_maze03,Baphomet,1039,1
+prt_maze03,Bibfoot,1060,2
+prt_maze03,Caramel,1103,2
+prt_maze03,Coco,1104,2
+prt_maze03,Creamy,1018,1
+prt_maze03,Dustiness,1114,2
+prt_maze03,Eclipse,1093,1
+prt_maze03,Fabre,1007,2
+prt_maze03,Hunter Fly,1035,1
+prt_maze03,Lunatic,1063,2
+prt_maze03,Mantis,1139,1
+prt_maze03,Martin,1145,2
+prt_maze03,Mastering,1090,1
+prt_maze03,Poporing,1031,2
+prt_maze03,Poring,1002,2
+prt_maze03,Pupa,1008,2
+prt_maze03,Rocker,1052,2
+prt_maze03,Savage,1166,3
+prt_maze03,Savage Babe,1167,2
+prt_maze03,Sidewinder,1037,1
+prt_maze03,Smokie,1056,2
+prt_maze03,Snake,1025,2
+prt_maze03,Stainer,1174,2
+prt_maze03,Steel Chonchon,1042,2
+prt_maze03,Vagabond Wolf,1092,1
+prt_maze03,Vocal,1088,1
+prt_maze03,Wolf,1013,2
+prt_maze03,Yoyo,1057,2
+mjolnir_01,Creamy,1018,10
+mjolnir_01,Hornet,1004,10
+mjolnir_01,Mandragora,1020,5
+mjolnir_02,Blue Plant,1079,1
+mjolnir_02,Creamy,1018,5
+mjolnir_02,Dustiness,1114,5
+mjolnir_02,Fabre,1007,5
+mjolnir_02,Green Plant,1080,5
+mjolnir_02,Pupa,1008,5
+mjolnir_03,Bigfoot,1060,10
+mjolnir_03,Caramel,1103,15
+mjolnir_03,Dustiness,1114,15
+mjolnir_03,Poporing,1031,10
+mjolnir_03,Rafflesia,1162,5
+mjolnir_03,Shining Plant,1083,1
+mjolnir_03,Smokie,1056,10
+mjolnir_04,Argos,1100,15
+mjolnir_04,Bigfoot,1060,5
+mjolnir_04,Flora,1118,10
+mjolnir_04,Poporing,1031,10
+mjolnir_05,Argiope,1099,10
+mjolnir_05,Blue Plant,1079,3
+mjolnir_05,Flora,1118,10
+mjolnir_05,Hornet,1004,20
+mjolnir_05,Mantis,1139,10
+mjolnir_05,Mistress,1059,1
+mjolnir_04,Red Plant,1078,5
+mjolnir_06,Ambernite,1094,5
+mjolnir_06,Blue Plant,1079,1
+mjolnir_06,Chonchon,1011,5
+mjolnir_06,Coco,1104,5
+mjolnir_06,Horn,1128,15
+mjolnir_06,Red Mushroom,1085,5
+mjolnir_06,Steel Chonchon,1042,15
+mjolnir_06,Thief Bug,1053,5
+mjolnir_07,Coco,1104,10
+mjolnir_07,Horn,1128,30
+mjolnir_07,Lunatic,1063,10
+mjolnir_07,Poporing,1031,5
+mjolnir_08,Horn,1128,5
+mjolnir_08,Lunatic,1063,15
+mjolnir_08,Poporing,1031,5
+mjolnir_08,Stainer,1174,5
+mjolnir_08,Yoyo,1057,25
+mjolnir_09,Chonchon,1011,10
+mjolnir_09,Horn,1128,15
+mjolnir_09,Red Mushroom,1085,5
+mjolnir_09,Rocker,1052,20
+mjolnir_09,Stainer,1174,15
+mjolnir_09,Steel Chonchon,1042,15
+mjolnir_09,Thief Bug,1053,10
+mjolnir_09,Wolf,1013,10
+mjolnir_06,Worm Tail,1024,15
+mjolnir_10,Angeling,1096,1
+mjolnir_10,Argiope,1099,15
+mjolnir_10,Argos,1100,15
+mjolnir_10,Mastering,1090,1
+mjolnir_10,Poring,1002,20
+mjolnir_10,Shining Plant,1083,1
+mjolnir_11,Andre,1095,10
+mjolnir_11,Ant Egg,1097,5
+mjolnir_11,Deniro,1105,10
+mjolnir_11,Horn,1128,5
+mjolnir_11,Piere,1160,10
+mjolnir_11,Rocker,1052,5
+mjolnir_11,Stainer,1174,5
+mjolnir_12,Ambernite,1094,15
+mjolnir_12,Petite,1155,10
+mjolnir_12,Mantis,1139,5
+mjolnir_12,Metaller,1058,10
+mjolnir_12,Poporing,1031,5
+mjolnir_12,Rocker,1052,15
+mjolnir_12,Steel Chonchon,1042,15
+moc_fild01,Chonchon,1011,10
+moc_fild01,Condor,1009,10
+moc_fild01,Drops,1113,5
+moc_fild01,Pecopeco,1019,5
+moc_fild01,Pecopeco Egg,1047,5
+moc_fild01,Picky,1049,15
+moc_fild01,Picky,1050,15
+moc_fild01,Yellow Plant,1081,5
+moc_fild02,Condor,1009,10
+moc_fild02,Pecopeco Egg,1047,5
+moc_fild02,Picky,1049,15
+moc_fild02,Picky,1050,15
+moc_fild02,Red Mushroom,1085,5
+moc_fild02,Savage Babe,1167,10
+moc_fild03,Lunatic,1063,5
+moc_fild03,Mastering,1090,1
+moc_fild03,Poring,1002,20
+moc_fild03,Roda Frog,1012,10
+moc_fild03,Snake,1025,10
+moc_fild03,Willow,1010,5
+moc_fild04,Chonchon,1011,10
+moc_fild04,Condor,1009,15
+moc_fild04,Drops,1113,5
+moc_fild04,Pecopeco,1019,15
+moc_fild04,Pecopeco Egg,1047,5
+moc_fild04,Picky,1049,10
+moc_fild04,Picky,1050,10
+moc_fild04,Wolf,1013,10
+moc_fild05,Chonchon,1011,10
+moc_fild05,Condor,1009,10
+moc_fild05,Drops,1113,10
+moc_fild05,Pecopeco Egg,1047,5
+moc_fild05,Picky,1049,10
+moc_fild05,Picky,1050,10
+moc_fild05,Steel Chonchon,1042,20
+moc_fild05,Wolf,1013,15
+moc_fild06,Baby Desert Wolf,1107,5
+moc_fild06,Chonchon,1011,10
+moc_fild06,Condor,1009,10
+moc_fild06,Dragon Fly,1091,1
+moc_fild06,Drops,1113,5
+moc_fild06,Muka,1055,10
+moc_fild06,Pecopeco Egg,1047,10
+moc_fild06,Picky,1049,10
+moc_fild06,Picky,1050,10
+moc_fild07,Chonchon,1011,20
+moc_fild07,Drops,1113,10
+moc_fild07,Pecopeco Egg,1047,10
+moc_fild07,Picky,1049,10
+moc_fild07,Picky,1050,10
+moc_fild08,Baby Desert Wolf,1107,5
+moc_fild08,Golem,1040,15
+moc_fild08,Metaller,1058,10
+moc_fild08,Scorpion,1001,5
+moc_fild09,Condor,1009,5
+moc_fild09,Baby Desert Wolf,1107,5
+moc_fild09,Muka,1055,5
+moc_fild09,Pecopeco Egg,1047,5
+moc_fild09,Picky,1049,5
+moc_fild09,Picky,1050,5
+moc_fild09,Yellow Plant,1081,5
+moc_fild10,Condor,1009,5
+moc_fild10,Pecopeco,1019,5
+moc_fild10,Pecopeco Egg,1047,5
+moc_fild10,Picky,1049,5
+moc_fild10,Picky,1050,5
+moc_fild11,Andre,1095,15
+moc_fild11,Ant Egg,1097,5
+moc_fild11,Chonchon,1011,5
+moc_fild11,Deniro,1105,15
+moc_fild11,Drops,1113,5
+moc_fild11,Picky,1049,5
+moc_fild11,Picky,1050,5
+moc_fild11,Piere,1160,15
+moc_fild11,Shining Plant,1083,1
+moc_fild12,Andre,1095,15
+moc_fild12,Ant Egg,1097,5
+moc_fild12,Chonchon,1011,5
+moc_fild12,Drops,1113,5
+moc_fild12,Picky,1049,5
+moc_fild12,Picky,1050,5
+moc_fild12,Yellow Plant,1081,5
+moc_fild13,Condor,1009,10
+moc_fild13,Pecopeco,1019,15
+moc_fild13,Pecopeco Egg,1047,5
+moc_fild13,Picky,1049,15
+moc_fild13,Picky,1050,15
+moc_fild13,Red Mushroom,1085,5
+moc_fild13,Snake,1025,20
+moc_fild13,Yellow Plant,1081,5
+moc_fild14,Baby Desert Wolf,1107,15
+moc_fild14,Desert Wolf,1058,30
+moc_fild14,Hode,1127,30
+moc_fild14,Metaller,1058,10
+moc_fild14,Scorpion,1001,10
+moc_fild15,Andre,1095,15
+moc_fild15,Ant Egg,1097,5
+moc_fild15,Deniro,1105,15
+moc_fild15,Piere,1160,15
+moc_fild15,Scorpion,1001,10
+moc_fild16,Hode,1127,20
+moc_fild16,Muka,1055,15
+moc_fild16,Sand Man,1165,25
+moc_fild17,Andre,1095,10
+moc_fild17,Blue Plant,1079,1
+moc_fild17,Deniro,1105,10
+moc_fild17,Drops,1113,10
+moc_fild17,Frilldora,1119,5
+moc_fild17,Hode,1127,20
+moc_fild17,Metaller,1058,5
+moc_fild17,Piere,1160,15
+moc_fild17,Sand Man,1165,20
+moc_fild17,Yellow Plant,1081,5
+moc_fild18,Anacondaq,1030,5
+moc_fild18,Chonchon,1011,10
+moc_fild18,Drops,1113,10
+moc_fild18,Hode,1127,50
+moc_fild18,Steel Chonchon,1042,10
+moc_fild18,Yellow Plant,1081,5
+job_thief1,Black Mushroom,1084,10
+job_thief1,Chonchon,1011,15
+job_thief1,Fabre,1007,10
+job_thief1,Red Mushroom,1182,10
+job_thief1,Spore,1014,15
+orcsdun01,Chonchon,1011,15
+orcsdun01,Drainliar,1111,5
+orcsdun01,Farmiliar,1005,15
+orcsdun01,Martin,1145,5
+orcsdun01,Orc Zombie,1153,25
+orcsdun01,Orc Skeleton,1152,25
+orcsdun01,Steel Chonchon,1042,15
+orcsdun02,Chonchon,1011,15
+orcsdun02,Farmiliar,1005,15
+orcsdun02,Orc Lord,1190,1
+orcsdun02,Steel Chonchon,1042,15
+orcsdun02,Zenorc,1177,25
+pay_dun00,Farmiliar,1005,10
+pay_dun00,Black Mushroom,1084,5
+pay_dun00,Red Plant,1078,5
+pay_dun00,Snake,1025,10
+pay_dun00,Spore,1014,20
+pay_dun00,Zombie,1015,20
+pay_dun01,Eggyra,1116,10
+pay_dun01,Farmiliar,1005,10
+pay_dun01,Magnolia,1138,20
+pay_dun01,Martin,1145,20
+pay_dun01,Red Plant,1078,5
+pay_dun01,Smokie,1056,30
+pay_dun02,Bongun,1188,15
+pay_dun02,Farmiliar,1005,10
+pay_dun02,Magnolia,1138,15
+pay_dun02,Munak,1026,15
+pay_dun02,Red Plant,1078,5
+pay_dun02,Soldier Skeleton,1028,10
+pay_dun03,Archer Skeleton,1016,10
+pay_dun03,Blue Plant,1079,5
+pay_dun03,Bongun,1188,5
+pay_dun03,Magnolia,1138,5
+pay_dun03,Mandragora,1020,5
+pay_dun03,Munak,1026,10
+pay_dun03,Sohee,1170,50
+pay_dun03,Soldier Skeleton,1028,10
+pay_dun03,Giant Whisper,1186,1
+pay_dun04,White Plant,1082,5
+pay_dun04,Archer Skeleton,1016,20
+pay_dun04,Blue Plant,1079,5
+pay_dun04,Horong,1129,25
+pay_dun04,Mandragora,1020,25
+pay_dun04,Moonlight Flower,1150,1
+pay_dun04,Sohee,1170,25
+pay_dun04,Soldier Skeleton,1028,20
+pay_fild01,Fabre,1007,15
+pay_fild01,Lunatic,1063,5
+pay_fild01,Poring,1002,20
+pay_fild01,Pupa,1008,12
+pay_fild01,Willow,1010,35
+pay_fild02,Fabre,1007,15
+pay_fild02,Lunatic,1063,5
+pay_fild02,Poring,1002,15
+pay_fild02,Thief Bug,1051,5
+pay_fild02,Vagabond Wolf,1092,1
+pay_fild02,Willow,1010,15
+pay_fild02,Wolf,1013,15
+pay_fild03,Fabre,1007,15
+pay_fild03,Green Plant,1080,5
+pay_fild03,Lunatic,1063,5
+pay_fild03,Poring,1002,15
+pay_fild03,Pupa,1008,10
+pay_fild03,Willow,1010,10
+pay_fild04,Angeling,1096,1
+pay_fild04,Drops,1113,15
+pay_fild04,Ghostring,1120,1
+pay_fild04,Poporing,1031,15
+pay_fild04,Poring,1002,15
+pay_fild05,Poison Spore,1077,5
+pay_fild05,Poring,1002,10
+pay_fild05,Spore,1014,10
+pay_fild06,Fabre,1007,5
+pay_fild06,Lunatic,1063,5
+pay_fild06,Poring,1002,5
+pay_fild06,Pupa,1008,5
+pay_fild06,Roda Frog,1012,5
+pay_fild06,Spore,1014,5
+pay_fild06,Willow,1010,5
+pay_fild07,Bigfoot,1060,20
+pay_fild07,Caramel,1103,20
+pay_fild07,Dokebi,1110,5
+pay_fild07,Eggyra,1116,10
+pay_fild07,Poison Spore,1077,20
+pay_fild07,Poporing,1031,5
+pay_fild08,Bigfoot,1060,5
+pay_fild08,Elder Willow,1033,20
+pay_fild08,Poison Spore,1077,20
+pay_fild08,Poporing,1031,10
+pay_fild08,Smokie,1056,20
+pay_fild08,Willow,1010,10
+pay_fild09,Bigfoot,1060,15
+pay_fild09,Eggyra,1116,10
+pay_fild09,Elder Willow,1033,20
+pay_fild09,Poison Spore,1077,20
+pay_fild09,Poporing,1031,5
+pay_fild09,Sohee,1170,10
+pay_fild09,Wanderer,1208,1
+pay_fild10,Bigfoot,1060,15
+pay_fild10,Eddga,1115,1
+pay_fild10,Eggyra,1116,10
+pay_fild10,Horong,1129,15
+pay_fild10,Poison Spore,1077,20
+pay_fild11,Brilight,1211,5
+pay_fild11,Dustiness,1114,5
+pay_fild11,Fabre,1007,5
+pay_fild11,Pupa,1008,10
+pay_fild11,Stainer,1174,5
+pay_fild11,Worm Tail,1024,25
+prt_fild00,Creamy,1018,10
+prt_fild00,Fabre,1007,15
+prt_fild00,Hornet,1004,10
+prt_fild00,Lunatic,1063,15
+prt_fild00,Poring,1002,20
+prt_fild00,Pupa,1008,5
+prt_fild00,Roda Frog,1012,5
+prt_fild01,Fabre,1007,5
+prt_fild01,Lunatic,1063,25
+prt_fild01,Poring,1002,5
+prt_fild01,Pupa,1008,5
+prt_fild01,Roda Frog,1012,5
+prt_fild01,Thief Bug,1051,5
+prt_fild01,Thief Bug Egg,1003,5
+prt_fild02,Eclipse,1093,1
+prt_fild02,Fabre,1007,5
+prt_fild02,Lunatic,1063,5
+prt_fild02,Mandragora,1020,15
+prt_fild02,Poring,1002,5
+prt_fild02,Pupa,1008,5
+prt_fild02,Thief Bug,1051,5
+prt_fild02,Thief Bug,1051,5
+prt_fild02,Thief Bug,1051,5
+prt_fild03,Choco,1214,1
+prt_fild03,Creamy,1018,5
+prt_fild03,Fabre,1007,5
+prt_fild03,Lunatic,1063,5
+prt_fild03,Poporing,1031,5
+prt_fild03,Pupa,1008,5
+prt_fild03,Thief Bug Egg,1003,5
+prt_fild03,Yoyo,1057,15
+prt_fild04,Fabre,1007,15
+prt_fild04,Hornet,1004,5
+prt_fild04,Lunatic,1063,10
+prt_fild04,Poring,1002,15
+prt_fild04,Rocker,1052,15
+prt_fild04,Roda Frog,1012,5
+prt_fild05,Fabre,1007,20
+prt_fild05,Lunatic,1063,10
+prt_fild05,Poring,1002,35
+prt_fild05,Pupa,1008,10
+prt_fild05,Roda Frog,1012,5
+prt_fild06,Fabre,1007,15
+prt_fild06,Lunatic,1063,5
+prt_fild06,Poring,1002,5
+prt_fild06,Pupa,1008,5
+prt_fild06,Roda Frog,1012,5
+prt_fild06,Thief Bug,1051,5
+prt_fild06,Thief Bug Egg,1003,5
+prt_fild07,Creamy,1018,10
+prt_fild07,Fabre,1007,15
+prt_fild07,Lunatic,1063,5
+prt_fild07,Poring,1002,15
+prt_fild07,Rocker,1052,45
+prt_fild07,Roda Frog,1012,10
+prt_fild07,Vocal,1088,1
+prt_fild08,Chonchon,1011,20
+prt_fild08,Fabre,1007,25
+prt_fild08,Lunatic,1063,15
+prt_fild08,Poring,1002,50
+prt_fild08,Pupa,1008,5
+prt_fild08,Roda Frog,1012,15
+prt_fild09,Baby Desert Wolf,1107,10
+prt_fild09,Chonchon,1011,15
+prt_fild09,Condor,1009,10
+prt_fild09,Drops,1113,20
+prt_fild09,Pecopeco Egg,1047,10
+prt_fild09,Picky,1049,15
+prt_fild09,Picky,1050,15
+prt_fild10,Creamy,1018,10
+prt_fild10,Elder Willow,1033,15
+prt_fild10,Lunatic,1063,10
+prt_fild10,Poporing,1031,10
+prt_fild10,Savage Babe,1167,20
+prt_fild10,Willow,1010,15
+prt_fild11,Coco,1104,20
+prt_fild11,Elder Willow,1033,15
+prt_fild11,Lunatic,1063,5
+prt_fild11,Poporing,1031,10
+prt_fild11,Red Mushroom,1085,5
+prt_fild11,Savage,1166,15
+prt_fild11,Savage Babe,1167,25
+prt_fild11,Yoyo,1057,10
+moc_pryd01,Farmiliar,1005,20
+moc_pryd01,Mimic,1191,1
+moc_pryd01,Poporing,1031,20
+moc_pryd01,Spore,1014,30
+moc_pryd02,Archer Skeleton,1016,20
+moc_pryd02,Drainliar,1111,20
+moc_pryd02,Mimic,1191,5
+moc_pryd02,Poporing,1031,20
+moc_pryd02,Soldier Skeleton,1028,30
+moc_pryd03,Archer Skeleton,1016,20
+moc_pryd03,Drainliar,1111,10
+moc_pryd03,Mimic,1191,5
+moc_pryd03,Mummy,1041,40
+moc_pryd03,Soldier Skeleton,1028,5
+moc_pryd04,Ghoul,1036,20
+moc_pryd04,Isis,1029,20
+moc_pryd04,Matyr,1146,10
+moc_pryd04,Mummy,1041,20
+moc_pryd04,Osiris,1038,1
+moc_pryd05,Anacondaq,1030,20
+moc_pryd05,Ghoul,1036,5
+moc_pryd05,Minorous,1149,10
+moc_pryd05,Mummy,1041,25
+moc_pryd05,Scorpion,1001,20
+moc_pryd05,Verit,1032,15
+moc_pryd06,Ghoul,1036,10
+moc_pryd06,Isis,1029,10
+moc_pryd06,Minorous,1149,10
+moc_pryd06,Mummy,1041,20
+moc_pryd06,Raydric,1163,15
+moc_pryd06,Verit,1032,10
+in_sphinx1,Anacondaq,1030,35
+in_sphinx1,Drainliar,1111,10
+in_sphinx1,Requiem,1164,5
+in_sphinx1,Zerom,1178,25
+in_sphinx2,Drainliar,1111,15
+in_sphinx2,Matyr,1146,15
+in_sphinx2,Requiem,1164,15
+in_sphinx2,Whisper,1179,15
+in_sphinx2,Zerom,1178,10
+in_sphinx3,Drainliar,1111,20
+in_sphinx3,Marduk,1140,5
+in_sphinx3,Matyr,1146,10
+in_sphinx3,Mimic,1191,5
+in_sphinx3,Requiem,1164,35
+in_sphinx3,Whisper,1179,10
+in_sphinx4,Evil Druid,1117,1
+in_sphinx4,Marduk,1140,25
+in_sphinx4,Matyr,1146,10
+in_sphinx4,Mimic,1191,4
+in_sphinx4,Minorous,1149,5
+in_sphinx4,Sidewinder,1037,10
+in_sphinx4,Whisper,1179,20
+in_sphinx5,Marduk,1140,10
+in_sphinx5,Mimic,1191,5
+in_sphinx5,Requiem,1164,25
+in_sphinx5,Sidewinder,1037,10
+in_sphinx5,Whisper,1179,10
+treasure01,Ghostring,1120,1
+treasure01,Hydra,1068,60
+treasure01,Kukre,1070,10
+treasure01,Pirate Skel,1071,15
+treasure01,Plankton,1161,5
+treasure01,Poison Spore,1077,10
+treasure02,Drake,1112,1
+treasure02,Hydra,1068,20
+treasure02,Megalodon,1064,5
+treasure02,Mimic,1191,5
+treasure02,Penomena,1216,10
+treasure02,Pirate Skel,1071,10
+treasure02,Thara Frog,1034,5
+treasure02,Trijoint,1279,5
+treasure02,Whisper,1179,10
+gl_dun02,Sting,1207,5
+,,,
+Total Mob Count,,,10411

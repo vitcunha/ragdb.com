@@ -1,0 +1,5144 @@
+[
+  {
+    "Map": "anthell01",
+    "MobDisplayName": "Andre",
+    "MobID": 1095,
+    "MobCount": 20
+  },
+  {
+    "Map": "anthell01",
+    "MobDisplayName": "Ant Egg",
+    "MobID": 1097,
+    "MobCount": 20
+  },
+  {
+    "Map": "anthell01",
+    "MobDisplayName": "Deniro",
+    "MobID": 1105,
+    "MobCount": 20
+  },
+  {
+    "Map": "anthell01",
+    "MobDisplayName": "Farmiliar",
+    "MobID": 1005,
+    "MobCount": 10
+  },
+  {
+    "Map": "anthell01",
+    "MobDisplayName": "Giearth",
+    "MobID": 1121,
+    "MobCount": 10
+  },
+  {
+    "Map": "anthell01",
+    "MobDisplayName": "Phreeoni",
+    "MobID": 1159,
+    "MobCount": 1
+  },
+  {
+    "Map": "anthell01",
+    "MobDisplayName": "Piere",
+    "MobID": 1160,
+    "MobCount": 20
+  },
+  {
+    "Map": "anthell01",
+    "MobDisplayName": "Vitata",
+    "MobID": 1176,
+    "MobCount": 20
+  },
+  {
+    "Map": "anthell02",
+    "MobDisplayName": "Andre",
+    "MobID": 1095,
+    "MobCount": 30
+  },
+  {
+    "Map": "anthell02",
+    "MobDisplayName": "Ant Egg",
+    "MobID": 1097,
+    "MobCount": 10
+  },
+  {
+    "Map": "anthell02",
+    "MobDisplayName": "Deniro",
+    "MobID": 1105,
+    "MobCount": 30
+  },
+  {
+    "Map": "anthell02",
+    "MobDisplayName": "Farmiliar",
+    "MobID": 1005,
+    "MobCount": 20
+  },
+  {
+    "Map": "anthell02",
+    "MobDisplayName": "Giearth",
+    "MobID": 1121,
+    "MobCount": 10
+  },
+  {
+    "Map": "anthell02",
+    "MobDisplayName": "Maya",
+    "MobID": 1147,
+    "MobCount": 1
+  },
+  {
+    "Map": "anthell02",
+    "MobDisplayName": "Piere",
+    "MobID": 1160,
+    "MobCount": 35
+  },
+  {
+    "Map": "anthell02",
+    "MobDisplayName": "Vitata",
+    "MobID": 1176,
+    "MobCount": 25
+  },
+  {
+    "Map": "iz_dun00",
+    "MobDisplayName": "Hydra",
+    "MobID": 1068,
+    "MobCount": 25
+  },
+  {
+    "Map": "iz_dun00",
+    "MobDisplayName": "Kukre",
+    "MobID": 1070,
+    "MobCount": 35
+  },
+  {
+    "Map": "iz_dun00",
+    "MobDisplayName": "Marina",
+    "MobID": 1141,
+    "MobCount": 10
+  },
+  {
+    "Map": "iz_dun00",
+    "MobDisplayName": "Plankton",
+    "MobID": 1161,
+    "MobCount": 40
+  },
+  {
+    "Map": "iz_dun00",
+    "MobDisplayName": "Vadon",
+    "MobID": 1066,
+    "MobCount": 25
+  },
+  {
+    "Map": "iz_dun01",
+    "MobDisplayName": "Cornutus",
+    "MobID": 1067,
+    "MobCount": 10
+  },
+  {
+    "Map": "iz_dun01",
+    "MobDisplayName": "Hydra",
+    "MobID": 1068,
+    "MobCount": 20
+  },
+  {
+    "Map": "iz_dun01",
+    "MobDisplayName": "Kukre",
+    "MobID": 1070,
+    "MobCount": 20
+  },
+  {
+    "Map": "iz_dun01",
+    "MobDisplayName": "Marina",
+    "MobID": 1141,
+    "MobCount": 30
+  },
+  {
+    "Map": "iz_dun01",
+    "MobDisplayName": "Plankton",
+    "MobID": 1161,
+    "MobCount": 5
+  },
+  {
+    "Map": "iz_dun01",
+    "MobDisplayName": "Thara Frog",
+    "MobID": 1034,
+    "MobCount": 30
+  },
+  {
+    "Map": "iz_dun01",
+    "MobDisplayName": "Vadon",
+    "MobID": 1066,
+    "MobCount": 30
+  },
+  {
+    "Map": "iz_dun02",
+    "MobDisplayName": "Cornutus",
+    "MobID": 1067,
+    "MobCount": 30
+  },
+  {
+    "Map": "iz_dun02",
+    "MobDisplayName": "Hydra",
+    "MobID": 1068,
+    "MobCount": 20
+  },
+  {
+    "Map": "iz_dun02",
+    "MobDisplayName": "Marse",
+    "MobID": 1067,
+    "MobCount": 20
+  },
+  {
+    "Map": "iz_dun02",
+    "MobDisplayName": "Obeaune",
+    "MobID": 1044,
+    "MobCount": 20
+  },
+  {
+    "Map": "iz_dun02",
+    "MobDisplayName": "Thara Frog",
+    "MobID": 1034,
+    "MobCount": 20
+  },
+  {
+    "Map": "iz_dun03",
+    "MobDisplayName": "Hydra",
+    "MobID": 1068,
+    "MobCount": 40
+  },
+  {
+    "Map": "iz_dun03",
+    "MobDisplayName": "Marc",
+    "MobID": 1045,
+    "MobCount": 10
+  },
+  {
+    "Map": "iz_dun03",
+    "MobDisplayName": "Marine Sphere",
+    "MobID": 1142,
+    "MobCount": 20
+  },
+  {
+    "Map": "iz_dun03",
+    "MobDisplayName": "Marse",
+    "MobID": 1069,
+    "MobCount": 15
+  },
+  {
+    "Map": "iz_dun03",
+    "MobDisplayName": "Merman",
+    "MobID": 1264,
+    "MobCount": 10
+  },
+  {
+    "Map": "iz_dun03",
+    "MobDisplayName": "Obeaune",
+    "MobID": 1044,
+    "MobCount": 25
+  },
+  {
+    "Map": "iz_dun03",
+    "MobDisplayName": "Phen",
+    "MobID": 1158,
+    "MobCount": 20
+  },
+  {
+    "Map": "iz_dun03",
+    "MobDisplayName": "Sword Fish",
+    "MobID": 1069,
+    "MobCount": 20
+  },
+  {
+    "Map": "iz_dun04",
+    "MobDisplayName": "Deviace",
+    "MobID": 1108,
+    "MobCount": 5
+  },
+  {
+    "Map": "iz_dun04",
+    "MobDisplayName": "Hydra",
+    "MobID": 1068,
+    "MobCount": 20
+  },
+  {
+    "Map": "iz_dun04",
+    "MobDisplayName": "Marc",
+    "MobID": 1045,
+    "MobCount": 25
+  },
+  {
+    "Map": "iz_dun04",
+    "MobDisplayName": "Marine Sphere",
+    "MobID": 1142,
+    "MobCount": 20
+  },
+  {
+    "Map": "iz_dun04",
+    "MobDisplayName": "Marse",
+    "MobID": 1069,
+    "MobCount": 15
+  },
+  {
+    "Map": "iz_dun04",
+    "MobDisplayName": "Merman",
+    "MobID": 1264,
+    "MobCount": 10
+  },
+  {
+    "Map": "iz_dun04",
+    "MobDisplayName": "Obeaune",
+    "MobID": 1044,
+    "MobCount": 20
+  },
+  {
+    "Map": "iz_dun04",
+    "MobDisplayName": "Penomena",
+    "MobID": 1216,
+    "MobCount": 5
+  },
+  {
+    "Map": "iz_dun04",
+    "MobDisplayName": "Sword Fish",
+    "MobID": 1069,
+    "MobCount": 10
+  },
+  {
+    "Map": "c_tower1",
+    "MobDisplayName": "Archer Skeleton",
+    "MobID": 1016,
+    "MobCount": 10
+  },
+  {
+    "Map": "c_tower1",
+    "MobDisplayName": "Baphomet Jr",
+    "MobID": 1102,
+    "MobCount": 25
+  },
+  {
+    "Map": "c_tower1",
+    "MobDisplayName": "Bathory",
+    "MobID": 1102,
+    "MobCount": 10
+  },
+  {
+    "Map": "c_tower1",
+    "MobDisplayName": "Punk",
+    "MobID": 1199,
+    "MobCount": 25
+  },
+  {
+    "Map": "c_tower1",
+    "MobDisplayName": "Clock Tower Manager",
+    "MobID": 1270,
+    "MobCount": 10
+  },
+  {
+    "Map": "c_tower2",
+    "MobDisplayName": "Alarm",
+    "MobID": 1193,
+    "MobCount": 5
+  },
+  {
+    "Map": "c_tower2",
+    "MobDisplayName": "Archer Skeleton",
+    "MobID": 1016,
+    "MobCount": 30
+  },
+  {
+    "Map": "c_tower2",
+    "MobDisplayName": "Clock",
+    "MobID": 1269,
+    "MobCount": 25
+  },
+  {
+    "Map": "c_tower2",
+    "MobDisplayName": "Deviruchi",
+    "MobID": 1109,
+    "MobCount": 25
+  },
+  {
+    "Map": "c_tower2",
+    "MobDisplayName": "Punk",
+    "MobID": 1199,
+    "MobCount": 25
+  },
+  {
+    "Map": "c_tower2",
+    "MobDisplayName": "Clock Tower Manager",
+    "MobID": 1270,
+    "MobCount": 10
+  },
+  {
+    "Map": "c_tower3",
+    "MobDisplayName": "Alarm",
+    "MobID": 1193,
+    "MobCount": 30
+  },
+  {
+    "Map": "c_tower3",
+    "MobDisplayName": "Archer Skeleton",
+    "MobID": 1016,
+    "MobCount": 35
+  },
+  {
+    "Map": "c_tower3",
+    "MobDisplayName": "Clock Tower Manager",
+    "MobID": 1270,
+    "MobCount": 10
+  },
+  {
+    "Map": "c_tower4",
+    "MobDisplayName": "Alarm",
+    "MobID": 1193,
+    "MobCount": 20
+  },
+  {
+    "Map": "c_tower4",
+    "MobDisplayName": "Archer Skeleton",
+    "MobID": 1016,
+    "MobCount": 25
+  },
+  {
+    "Map": "c_tower4",
+    "MobDisplayName": "Clock Tower Manager",
+    "MobID": 1270,
+    "MobCount": 10
+  },
+  {
+    "Map": "c_tower4",
+    "MobDisplayName": "Executioner",
+    "MobID": 1205,
+    "MobCount": 1
+  },
+  {
+    "Map": "c_tower4",
+    "MobDisplayName": "Abysmal Knight",
+    "MobID": 1219,
+    "MobCount": 1
+  },
+  {
+    "Map": "c_tower4",
+    "MobDisplayName": "Mimic",
+    "MobID": 1191,
+    "MobCount": 10
+  },
+  {
+    "Map": "c_tower4",
+    "MobDisplayName": "Rideword",
+    "MobID": 1195,
+    "MobCount": 15
+  },
+  {
+    "Map": "alde_dun01",
+    "MobDisplayName": "Drainliar",
+    "MobID": 1111,
+    "MobCount": 25
+  },
+  {
+    "Map": "alde_dun01",
+    "MobDisplayName": "Stem Worm",
+    "MobID": 1215,
+    "MobCount": 60
+  },
+  {
+    "Map": "alde_dun02",
+    "MobDisplayName": "Drainliar",
+    "MobID": 1111,
+    "MobCount": 10
+  },
+  {
+    "Map": "alde_dun02",
+    "MobDisplayName": "High Orc",
+    "MobID": 1213,
+    "MobCount": 70
+  },
+  {
+    "Map": "alde_dun02",
+    "MobDisplayName": "Orc Archer",
+    "MobID": 1189,
+    "MobCount": 40
+  },
+  {
+    "Map": "alde_dun03",
+    "MobDisplayName": "Brilight",
+    "MobID": 1211,
+    "MobCount": 40
+  },
+  {
+    "Map": "alde_dun03",
+    "MobDisplayName": "Cramp",
+    "MobID": 1209,
+    "MobCount": 40
+  },
+  {
+    "Map": "alde_dun03",
+    "MobDisplayName": "Penomena",
+    "MobID": 1216,
+    "MobCount": 60
+  },
+  {
+    "Map": "alde_dun03",
+    "MobDisplayName": "Stem Worm",
+    "MobID": 1215,
+    "MobCount": 10
+  },
+  {
+    "Map": "alde_dun04",
+    "MobDisplayName": "Alligator",
+    "MobID": 1271,
+    "MobCount": 30
+  },
+  {
+    "Map": "alde_dun04",
+    "MobDisplayName": "Ambernite",
+    "MobID": 1094,
+    "MobCount": 20
+  },
+  {
+    "Map": "mjo_dun01",
+    "MobDisplayName": "Andre",
+    "MobID": 1095,
+    "MobCount": 15
+  },
+  {
+    "Map": "mjo_dun01",
+    "MobDisplayName": "Deniro",
+    "MobID": 1105,
+    "MobCount": 15
+  },
+  {
+    "Map": "mjo_dun01",
+    "MobDisplayName": "Drainliar",
+    "MobID": 1111,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjo_dun01",
+    "MobDisplayName": "Farmiliar",
+    "MobID": 1005,
+    "MobCount": 15
+  },
+  {
+    "Map": "mjo_dun01",
+    "MobDisplayName": "Giearth",
+    "MobID": 1121,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjo_dun01",
+    "MobDisplayName": "Martin",
+    "MobID": 1145,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjo_dun01",
+    "MobDisplayName": "Piere",
+    "MobID": 1160,
+    "MobCount": 15
+  },
+  {
+    "Map": "mjo_dun01",
+    "MobDisplayName": "Skel Worker",
+    "MobID": 1169,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjo_dun01",
+    "MobDisplayName": "Smokie",
+    "MobID": 1056,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjo_dun01",
+    "MobDisplayName": "Tarou",
+    "MobID": 1175,
+    "MobCount": 20
+  },
+  {
+    "Map": "mjo_dun02",
+    "MobDisplayName": "Drainliar",
+    "MobID": 1111,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjo_dun02",
+    "MobDisplayName": "Martin",
+    "MobID": 1145,
+    "MobCount": 30
+  },
+  {
+    "Map": "mjo_dun02",
+    "MobDisplayName": "Skel Worker",
+    "MobID": 1169,
+    "MobCount": 20
+  },
+  {
+    "Map": "mjo_dun03",
+    "MobDisplayName": "Evil Druid",
+    "MobID": 1117,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjo_dun03",
+    "MobDisplayName": "Martin",
+    "MobID": 1145,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjo_dun03",
+    "MobDisplayName": "Myst",
+    "MobID": 1151,
+    "MobCount": 20
+  },
+  {
+    "Map": "mjo_dun03",
+    "MobDisplayName": "Skel Worker",
+    "MobID": 1169,
+    "MobCount": 50
+  },
+  {
+    "Map": "prt_sewb1",
+    "MobDisplayName": "Farmiliar",
+    "MobID": 1005,
+    "MobCount": 20
+  },
+  {
+    "Map": "prt_sewb1",
+    "MobDisplayName": "Spore",
+    "MobID": 1014,
+    "MobCount": 20
+  },
+  {
+    "Map": "prt_sewb1",
+    "MobDisplayName": "Tarou",
+    "MobID": 1175,
+    "MobCount": 10
+  },
+  {
+    "Map": "prt_sewb1",
+    "MobDisplayName": "Thief Bug",
+    "MobID": 1051,
+    "MobCount": 60
+  },
+  {
+    "Map": "prt_sewb1",
+    "MobDisplayName": "Thief Bug Egg",
+    "MobID": 1003,
+    "MobCount": 40
+  },
+  {
+    "Map": "prt_sewb2",
+    "MobDisplayName": "Farmiliar",
+    "MobID": 1005,
+    "MobCount": 10
+  },
+  {
+    "Map": "prt_sewb2",
+    "MobDisplayName": "Plankton",
+    "MobID": 1161,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_sewb2",
+    "MobDisplayName": "Spore",
+    "MobID": 1014,
+    "MobCount": 15
+  },
+  {
+    "Map": "prt_sewb2",
+    "MobDisplayName": "Tarou",
+    "MobID": 1175,
+    "MobCount": 25
+  },
+  {
+    "Map": "prt_sewb2",
+    "MobDisplayName": "Hydra",
+    "MobID": 1068,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_sewb2",
+    "MobDisplayName": "Thief Bug",
+    "MobID": 1051,
+    "MobCount": 50
+  },
+  {
+    "Map": "prt_sewb2",
+    "MobDisplayName": "Thief Bug",
+    "MobID": 1053,
+    "MobCount": 20
+  },
+  {
+    "Map": "prt_sewb2",
+    "MobDisplayName": "Thief Bug Egg",
+    "MobID": 1003,
+    "MobCount": 20
+  },
+  {
+    "Map": "prt_sewb3",
+    "MobDisplayName": "Farmiliar",
+    "MobID": 1005,
+    "MobCount": 20
+  },
+  {
+    "Map": "prt_sewb3",
+    "MobDisplayName": "Hydra",
+    "MobID": 1068,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_sewb3",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 15
+  },
+  {
+    "Map": "prt_sewb3",
+    "MobDisplayName": "Tarou",
+    "MobID": 1175,
+    "MobCount": 25
+  },
+  {
+    "Map": "prt_sewb3",
+    "MobDisplayName": "Thief Bug",
+    "MobID": 1051,
+    "MobCount": 45
+  },
+  {
+    "Map": "prt_sewb3",
+    "MobDisplayName": "Thief Bug",
+    "MobID": 1053,
+    "MobCount": 45
+  },
+  {
+    "Map": "prt_sewb3",
+    "MobDisplayName": "Thief Bug Egg",
+    "MobID": 1003,
+    "MobCount": 10
+  },
+  {
+    "Map": "prt_sewb4",
+    "MobDisplayName": "Golden Bug",
+    "MobID": 1086,
+    "MobCount": 1
+  },
+  {
+    "Map": "prt_sewb4",
+    "MobDisplayName": "Thief Bug",
+    "MobID": 1051,
+    "MobCount": 50
+  },
+  {
+    "Map": "prt_sewb4",
+    "MobDisplayName": "Thief Bug",
+    "MobID": 1053,
+    "MobCount": 50
+  },
+  {
+    "Map": "prt_sewb4",
+    "MobDisplayName": "Thief Bug",
+    "MobID": 1054,
+    "MobCount": 50
+  },
+  {
+    "Map": "prt_sewb4",
+    "MobDisplayName": "Thief Bug Egg",
+    "MobID": 1003,
+    "MobCount": 20
+  },
+  {
+    "Map": "gef_dun00",
+    "MobDisplayName": "Blue Plant",
+    "MobID": 1079,
+    "MobCount": 5
+  },
+  {
+    "Map": "gef_dun00",
+    "MobDisplayName": "Dustiness",
+    "MobID": 1114,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_dun00",
+    "MobDisplayName": "Farmiliar",
+    "MobID": 1005,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_dun00",
+    "MobDisplayName": "Poison Spore",
+    "MobID": 1077,
+    "MobCount": 20
+  },
+  {
+    "Map": "gef_dun00",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 20
+  },
+  {
+    "Map": "gef_dun01",
+    "MobDisplayName": "Argos",
+    "MobID": 1100,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_dun01",
+    "MobDisplayName": "Dustiness",
+    "MobID": 1114,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_dun01",
+    "MobDisplayName": "Jakk",
+    "MobID": 1130,
+    "MobCount": 5
+  },
+  {
+    "Map": "gef_dun01",
+    "MobDisplayName": "Poison Spore",
+    "MobID": 1077,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_dun01",
+    "MobDisplayName": "Whisper",
+    "MobID": 1179,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_dun02",
+    "MobDisplayName": "Argos",
+    "MobID": 1100,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_dun02",
+    "MobDisplayName": "Bathory",
+    "MobID": 1102,
+    "MobCount": 5
+  },
+  {
+    "Map": "gef_dun03",
+    "MobDisplayName": "Doppelganger",
+    "MobID": 1046,
+    "MobCount": 1
+  },
+  {
+    "Map": "gef_dun02",
+    "MobDisplayName": "Jakk",
+    "MobID": 1130,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_dun03",
+    "MobDisplayName": "Joker",
+    "MobID": 1131,
+    "MobCount": 5
+  },
+  {
+    "Map": "gef_dun02",
+    "MobDisplayName": "Marionette",
+    "MobID": 1143,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_dun02",
+    "MobDisplayName": "Myst",
+    "MobID": 1151,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_dun02",
+    "MobDisplayName": "Nightmare",
+    "MobID": 1061,
+    "MobCount": 5
+  },
+  {
+    "Map": "gef_dun02",
+    "MobDisplayName": "Whisper",
+    "MobID": 1179,
+    "MobCount": 20
+  },
+  {
+    "Map": "gef_dun03",
+    "MobDisplayName": "Argos",
+    "MobID": 1100,
+    "MobCount": 20
+  },
+  {
+    "Map": "gef_dun03",
+    "MobDisplayName": "Bathory",
+    "MobID": 1102,
+    "MobCount": 5
+  },
+  {
+    "Map": "gef_dun03",
+    "MobDisplayName": "Jakk",
+    "MobID": 1130,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_dun02",
+    "MobDisplayName": "Marionette",
+    "MobID": 1143,
+    "MobCount": 20
+  },
+  {
+    "Map": "gef_dun03",
+    "MobDisplayName": "Myst",
+    "MobID": 1151,
+    "MobCount": 20
+  },
+  {
+    "Map": "gef_dun03",
+    "MobDisplayName": "Nightmare",
+    "MobID": 1061,
+    "MobCount": 5
+  },
+  {
+    "Map": "gef_dun03",
+    "MobDisplayName": "Whisper",
+    "MobID": 1179,
+    "MobCount": 20
+  },
+  {
+    "Map": "gef_fild00",
+    "MobDisplayName": "Chonchon",
+    "MobID": 1011,
+    "MobCount": 12
+  },
+  {
+    "Map": "gef_fild00",
+    "MobDisplayName": "Fabre",
+    "MobID": 1007,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild00",
+    "MobDisplayName": "Lunatic",
+    "MobID": 1063,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild00",
+    "MobDisplayName": "Martin",
+    "MobID": 1145,
+    "MobCount": 5
+  },
+  {
+    "Map": "gef_fild00",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 30
+  },
+  {
+    "Map": "gef_fild00",
+    "MobDisplayName": "Pupa",
+    "MobID": 1008,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild00",
+    "MobDisplayName": "Roda Frog",
+    "MobID": 1012,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild00",
+    "MobDisplayName": "Willow",
+    "MobID": 1010,
+    "MobCount": 30
+  },
+  {
+    "Map": "gef_fild01",
+    "MobDisplayName": "Hornet",
+    "MobID": 1004,
+    "MobCount": 20
+  },
+  {
+    "Map": "gef_fild01",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild01",
+    "MobDisplayName": "Roda Frog",
+    "MobID": 1012,
+    "MobCount": 30
+  },
+  {
+    "Map": "gef_fild01",
+    "MobDisplayName": "Toad",
+    "MobID": 1089,
+    "MobCount": 1
+  },
+  {
+    "Map": "gef_fild02",
+    "MobDisplayName": "Coco",
+    "MobID": 1104,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild02",
+    "MobDisplayName": "Goblin",
+    "MobID": 1123,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild02",
+    "MobDisplayName": "Goblin",
+    "MobID": 1124,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild02",
+    "MobDisplayName": "Goblin",
+    "MobID": 1125,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild02",
+    "MobDisplayName": "Goblin",
+    "MobID": 1126,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild02",
+    "MobDisplayName": "Goblin Archer",
+    "MobID": 1258,
+    "MobCount": 5
+  },
+  {
+    "Map": "gef_fild02",
+    "MobDisplayName": "Horn",
+    "MobID": 1128,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild02",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild03",
+    "MobDisplayName": "Coco",
+    "MobID": 1104,
+    "MobCount": 25
+  },
+  {
+    "Map": "gef_fild03",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 25
+  },
+  {
+    "Map": "gef_fild03",
+    "MobDisplayName": "Smokie",
+    "MobID": 1056,
+    "MobCount": 25
+  },
+  {
+    "Map": "gef_fild04",
+    "MobDisplayName": "Ambernite",
+    "MobID": 1094,
+    "MobCount": 20
+  },
+  {
+    "Map": "gef_fild04",
+    "MobDisplayName": "Chonchon",
+    "MobID": 1011,
+    "MobCount": 20
+  },
+  {
+    "Map": "gef_fild04",
+    "MobDisplayName": "Fabre",
+    "MobID": 1007,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild04",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild04",
+    "MobDisplayName": "Pupa",
+    "MobID": 1008,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild04",
+    "MobDisplayName": "Roda Frog",
+    "MobID": 1012,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild04",
+    "MobDisplayName": "Willow",
+    "MobID": 1010,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild05",
+    "MobDisplayName": "Chonchon",
+    "MobID": 1011,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild05",
+    "MobDisplayName": "Fabre",
+    "MobID": 1007,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild05",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild05",
+    "MobDisplayName": "Rocker",
+    "MobID": 1052,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild05",
+    "MobDisplayName": "Roda Frog",
+    "MobID": 1012,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild05",
+    "MobDisplayName": "Savage Babe",
+    "MobID": 1167,
+    "MobCount": 5
+  },
+  {
+    "Map": "gef_fild05",
+    "MobDisplayName": "Willow",
+    "MobID": 1010,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild06",
+    "MobDisplayName": "Creamy",
+    "MobID": 1018,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild06",
+    "MobDisplayName": "Petite",
+    "MobID": 1155,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild06",
+    "MobDisplayName": "Petite",
+    "MobID": 1156,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild06",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 7
+  },
+  {
+    "Map": "gef_fild06",
+    "MobDisplayName": "Stainer",
+    "MobID": 1174,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild07",
+    "MobDisplayName": "Chonchon",
+    "MobID": 1011,
+    "MobCount": 20
+  },
+  {
+    "Map": "gef_fild07",
+    "MobDisplayName": "Fabre",
+    "MobID": 1007,
+    "MobCount": 20
+  },
+  {
+    "Map": "gef_fild07",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 20
+  },
+  {
+    "Map": "gef_fild07",
+    "MobDisplayName": "Pupa",
+    "MobID": 1008,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild07",
+    "MobDisplayName": "Roda Frog",
+    "MobID": 1012,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild07",
+    "MobDisplayName": "Willow",
+    "MobID": 1010,
+    "MobCount": 25
+  },
+  {
+    "Map": "gef_fild08",
+    "MobDisplayName": "Creamy",
+    "MobID": 1018,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild08",
+    "MobDisplayName": "Kobold",
+    "MobID": 1133,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild08",
+    "MobDisplayName": "Kobold",
+    "MobID": 1134,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild08",
+    "MobDisplayName": "Kobold",
+    "MobID": 1135,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild08",
+    "MobDisplayName": "Kobold",
+    "MobID": 1136,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild08",
+    "MobDisplayName": "Kobold",
+    "MobID": 1137,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild08",
+    "MobDisplayName": "Kobold Archer",
+    "MobID": 1282,
+    "MobCount": 5
+  },
+  {
+    "Map": "gef_fild08",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild08",
+    "MobDisplayName": "Stainer",
+    "MobID": 1174,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild09",
+    "MobDisplayName": "Ambernite",
+    "MobID": 1094,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild09",
+    "MobDisplayName": "Hornet",
+    "MobID": 1004,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild09",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 5
+  },
+  {
+    "Map": "gef_fild10",
+    "MobDisplayName": "Horn",
+    "MobID": 1128,
+    "MobCount": 25
+  },
+  {
+    "Map": "gef_fild10",
+    "MobDisplayName": "Orc Archer",
+    "MobID": 1189,
+    "MobCount": 5
+  },
+  {
+    "Map": "gef_fild10",
+    "MobDisplayName": "Orc Hero",
+    "MobID": 1189,
+    "MobCount": 1
+  },
+  {
+    "Map": "gef_fild10",
+    "MobDisplayName": "Orc Lady",
+    "MobID": 1273,
+    "MobCount": 20
+  },
+  {
+    "Map": "gef_fild10",
+    "MobDisplayName": "Orc Warrior",
+    "MobID": 1023,
+    "MobCount": 30
+  },
+  {
+    "Map": "gef_fild10",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild10",
+    "MobDisplayName": "Yoyo",
+    "MobID": 1057,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild11",
+    "MobDisplayName": "Coco",
+    "MobID": 1104,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild11",
+    "MobDisplayName": "Goblin",
+    "MobID": 1122,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild11",
+    "MobDisplayName": "Goblin",
+    "MobID": 1123,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild11",
+    "MobDisplayName": "Goblin",
+    "MobID": 1124,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild11",
+    "MobDisplayName": "Goblin",
+    "MobID": 1125,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild11",
+    "MobDisplayName": "Goblin",
+    "MobID": 1126,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild11",
+    "MobDisplayName": "Goblin Archer",
+    "MobID": 1258,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild11",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 5
+  },
+  {
+    "Map": "gef_fild11",
+    "MobDisplayName": "Smokie",
+    "MobID": 1056,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild12",
+    "MobDisplayName": "Kobold",
+    "MobID": 1133,
+    "MobCount": 20
+  },
+  {
+    "Map": "gef_fild12",
+    "MobDisplayName": "Kobold",
+    "MobID": 1134,
+    "MobCount": 20
+  },
+  {
+    "Map": "gef_fild12",
+    "MobDisplayName": "Kobold",
+    "MobID": 1135,
+    "MobCount": 20
+  },
+  {
+    "Map": "gef_fild12",
+    "MobDisplayName": "Kobold Archer",
+    "MobID": 1282,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild13",
+    "MobDisplayName": "Ambernite",
+    "MobID": 1094,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild13",
+    "MobDisplayName": "Creamy",
+    "MobID": 1018,
+    "MobCount": 15
+  },
+  {
+    "Map": "gef_fild13",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 5
+  },
+  {
+    "Map": "gef_fild14",
+    "MobDisplayName": "Goblin Archer",
+    "MobID": 1258,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild14",
+    "MobDisplayName": "High Orc",
+    "MobID": 1213,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild14",
+    "MobDisplayName": "Orc Archer",
+    "MobID": 1189,
+    "MobCount": 10
+  },
+  {
+    "Map": "gef_fild14",
+    "MobDisplayName": "Orc Lady",
+    "MobID": 1273,
+    "MobCount": 20
+  },
+  {
+    "Map": "gef_fild14",
+    "MobDisplayName": "Steam Goblin",
+    "MobID": 1280,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_cas01",
+    "MobDisplayName": "Alice",
+    "MobID": 1275,
+    "MobCount": 20
+  },
+  {
+    "Map": "gl_cas01",
+    "MobDisplayName": "Carat",
+    "MobID": 1267,
+    "MobCount": 20
+  },
+  {
+    "Map": "gl_cas01",
+    "MobDisplayName": "Joker",
+    "MobID": 1131,
+    "MobCount": 20
+  },
+  {
+    "Map": "gl_cas01",
+    "MobDisplayName": "Dark Frame",
+    "MobID": 1260,
+    "MobCount": 20
+  },
+  {
+    "Map": "gl_cas01",
+    "MobDisplayName": "Khalitzburg",
+    "MobID": 1132,
+    "MobCount": 15
+  },
+  {
+    "Map": "gl_cas01",
+    "MobDisplayName": "Rideword",
+    "MobID": 1195,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_cas01",
+    "MobDisplayName": "Tirfing",
+    "MobID": 1204,
+    "MobCount": 1
+  },
+  {
+    "Map": "gl_cas01",
+    "MobDisplayName": "Whisper",
+    "MobID": 1179,
+    "MobCount": 20
+  },
+  {
+    "Map": "gl_cas02",
+    "MobDisplayName": "Alice",
+    "MobID": 1275,
+    "MobCount": 20
+  },
+  {
+    "Map": "gl_cas02",
+    "MobDisplayName": "Archer Skeleton",
+    "MobID": 1016,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_cas02",
+    "MobDisplayName": "Baphomet",
+    "MobID": 1039,
+    "MobCount": 1
+  },
+  {
+    "Map": "gl_cas02",
+    "MobDisplayName": "Baphomet Jr",
+    "MobID": 1101,
+    "MobCount": 15
+  },
+  {
+    "Map": "gl_cas02",
+    "MobDisplayName": "Deviruchi",
+    "MobID": 1109,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_cas02",
+    "MobDisplayName": "Khalitzburg",
+    "MobID": 1132,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_cas02",
+    "MobDisplayName": "Abysmal Knight",
+    "MobID": 1219,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_cas02",
+    "MobDisplayName": "Marionette",
+    "MobID": 1143,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_cas02",
+    "MobDisplayName": "Mimic",
+    "MobID": 1191,
+    "MobCount": 1
+  },
+  {
+    "Map": "gl_cas02",
+    "MobDisplayName": "Mimic",
+    "MobID": 1191,
+    "MobCount": 1
+  },
+  {
+    "Map": "gl_cas02",
+    "MobDisplayName": "Nightmare",
+    "MobID": 1061,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_cas02",
+    "MobDisplayName": "Raydric Archer",
+    "MobID": 1276,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_cas02",
+    "MobDisplayName": "Rideword",
+    "MobID": 1195,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_cas02",
+    "MobDisplayName": "Wanderer",
+    "MobID": 1208,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_dun01",
+    "MobDisplayName": "Arclouse",
+    "MobID": 1194,
+    "MobCount": 30
+  },
+  {
+    "Map": "gl_dun01",
+    "MobDisplayName": "Stalatic Golem",
+    "MobID": 1278,
+    "MobCount": 20
+  },
+  {
+    "Map": "gl_dun02",
+    "MobDisplayName": "Gargoyle",
+    "MobID": 1253,
+    "MobCount": 20
+  },
+  {
+    "Map": "gl_knt01",
+    "MobDisplayName": "Black Mushroom",
+    "MobID": 1084,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_knt01",
+    "MobDisplayName": "Brilight",
+    "MobID": 1211,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_knt01",
+    "MobDisplayName": "Evil Druid",
+    "MobID": 1117,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_knt01",
+    "MobDisplayName": "Flora",
+    "MobID": 1118,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_knt01",
+    "MobDisplayName": "Mandragora",
+    "MobID": 1020,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_knt01",
+    "MobDisplayName": "Raydric Archer",
+    "MobID": 1276,
+    "MobCount": 15
+  },
+  {
+    "Map": "gl_knt01",
+    "MobDisplayName": "Raydric",
+    "MobID": 1163,
+    "MobCount": 15
+  },
+  {
+    "Map": "gl_knt01",
+    "MobDisplayName": "Rideword",
+    "MobID": 1195,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_knt01",
+    "MobDisplayName": "Giant Whisper",
+    "MobID": 1186,
+    "MobCount": 1
+  },
+  {
+    "Map": "gl_knt02",
+    "MobDisplayName": "Bloody Knight",
+    "MobID": 1268,
+    "MobCount": 1
+  },
+  {
+    "Map": "gl_knt02",
+    "MobDisplayName": "Joker",
+    "MobID": 1131,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_knt02",
+    "MobDisplayName": "Khalitzburg",
+    "MobID": 1132,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_knt02",
+    "MobDisplayName": "Raydric Archer",
+    "MobID": 1276,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_knt02",
+    "MobDisplayName": "Raydric",
+    "MobID": 1163,
+    "MobCount": 20
+  },
+  {
+    "Map": "gl_knt02",
+    "MobDisplayName": "Whisper",
+    "MobID": 1179,
+    "MobCount": 5
+  },
+  {
+    "Map": "glast_01",
+    "MobDisplayName": "Bathory",
+    "MobID": 1102,
+    "MobCount": 10
+  },
+  {
+    "Map": "glast_01",
+    "MobDisplayName": "Blue Plant",
+    "MobID": 1079,
+    "MobCount": 5
+  },
+  {
+    "Map": "glast_01",
+    "MobDisplayName": "Green Plant",
+    "MobID": 1080,
+    "MobCount": 5
+  },
+  {
+    "Map": "glast_01",
+    "MobDisplayName": "Jakk",
+    "MobID": 1130,
+    "MobCount": 5
+  },
+  {
+    "Map": "glast_01",
+    "MobDisplayName": "Abysmal Knight",
+    "MobID": 1219,
+    "MobCount": 1
+  },
+  {
+    "Map": "glast_01",
+    "MobDisplayName": "Myst",
+    "MobID": 1151,
+    "MobCount": 5
+  },
+  {
+    "Map": "glast_01",
+    "MobDisplayName": "Poison Spore",
+    "MobID": 1077,
+    "MobCount": 10
+  },
+  {
+    "Map": "glast_01",
+    "MobDisplayName": "Shining Plant",
+    "MobID": 1083,
+    "MobCount": 1
+  },
+  {
+    "Map": "gl_church",
+    "MobDisplayName": "Brilight",
+    "MobID": 1211,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_church",
+    "MobDisplayName": "Evil Druid",
+    "MobID": 1117,
+    "MobCount": 1
+  },
+  {
+    "Map": "gl_church",
+    "MobDisplayName": "Ghoul",
+    "MobID": 1036,
+    "MobCount": 15
+  },
+  {
+    "Map": "gl_church",
+    "MobDisplayName": "Joker",
+    "MobID": 1131,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_church",
+    "MobDisplayName": "Nightmare",
+    "MobID": 1061,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_church",
+    "MobDisplayName": "Whisper",
+    "MobID": 1179,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_chyard",
+    "MobDisplayName": "Dark Lord",
+    "MobID": 1272,
+    "MobCount": 1
+  },
+  {
+    "Map": "gl_chyard",
+    "MobDisplayName": "Ghoul",
+    "MobID": 1036,
+    "MobCount": 15
+  },
+  {
+    "Map": "gl_chyard",
+    "MobDisplayName": "Hunter Fly",
+    "MobID": 1035,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_chyard",
+    "MobDisplayName": "Mimic",
+    "MobID": 1191,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_chyard",
+    "MobDisplayName": "Skel Prisoner",
+    "MobID": 1196,
+    "MobCount": 15
+  },
+  {
+    "Map": "gl_chyard",
+    "MobDisplayName": "Wraith",
+    "MobID": 1192,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_chyard",
+    "MobDisplayName": "Zombie",
+    "MobID": 1015,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_chyard",
+    "MobDisplayName": "Zombie Prisoner",
+    "MobID": 1197,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_step",
+    "MobDisplayName": "Mimic",
+    "MobID": 1191,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_step",
+    "MobDisplayName": "Raydric Archer",
+    "MobID": 1276,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_step",
+    "MobDisplayName": "Wind Ghost",
+    "MobID": 1236,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_step",
+    "MobDisplayName": "Wraith",
+    "MobID": 1192,
+    "MobCount": 20
+  },
+  {
+    "Map": "gl_in01",
+    "MobDisplayName": "Alice",
+    "MobID": 1275,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_in01",
+    "MobDisplayName": "Dark Frame",
+    "MobID": 1260,
+    "MobCount": 20
+  },
+  {
+    "Map": "gl_in01",
+    "MobDisplayName": "Marionette",
+    "MobID": 1143,
+    "MobCount": 20
+  },
+  {
+    "Map": "gl_in01",
+    "MobDisplayName": "Rideword",
+    "MobID": 1195,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_in01",
+    "MobDisplayName": "Sage Worm",
+    "MobID": 1281,
+    "MobCount": 20
+  },
+  {
+    "Map": "gl_in01",
+    "MobDisplayName": "Wanderer",
+    "MobID": 1208,
+    "MobCount": 1
+  },
+  {
+    "Map": "gl_sew01",
+    "MobDisplayName": "Anolian",
+    "MobID": 1206,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_sew01",
+    "MobDisplayName": "Cramp",
+    "MobID": 1209,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_sew01",
+    "MobDisplayName": "Drainliar",
+    "MobID": 1111,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_sew02",
+    "MobDisplayName": "Anolian",
+    "MobID": 1206,
+    "MobCount": 20
+  },
+  {
+    "Map": "gl_sew02",
+    "MobDisplayName": "Cramp",
+    "MobID": 1209,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_sew02",
+    "MobDisplayName": "Gargoyle",
+    "MobID": 1253,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_sew03",
+    "MobDisplayName": "Cramp",
+    "MobID": 1209,
+    "MobCount": 20
+  },
+  {
+    "Map": "gl_sew03",
+    "MobDisplayName": "Gargoyle",
+    "MobID": 1253,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_sew03",
+    "MobDisplayName": "Sting",
+    "MobID": 1207,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_sew04",
+    "MobDisplayName": "Sting",
+    "MobID": 1207,
+    "MobCount": 30
+  },
+  {
+    "Map": "gl_sew04",
+    "MobDisplayName": "Wind Ghost",
+    "MobID": 1263,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_prison",
+    "MobDisplayName": "Brilight",
+    "MobID": 1211,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_prison",
+    "MobDisplayName": "Hunter Fly",
+    "MobID": 1035,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_prison",
+    "MobDisplayName": "Skel Prisoner",
+    "MobID": 1196,
+    "MobCount": 20
+  },
+  {
+    "Map": "gl_prison",
+    "MobDisplayName": "Whisper",
+    "MobID": 1179,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_prison",
+    "MobDisplayName": "Zealtous",
+    "MobID": 1200,
+    "MobCount": 1
+  },
+  {
+    "Map": "gl_prison",
+    "MobDisplayName": "Zombie Prisoner",
+    "MobID": 1197,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_prison",
+    "MobDisplayName": "Arclouse",
+    "MobID": 1194,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_prison1",
+    "MobDisplayName": "Brilight",
+    "MobID": 1211,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_prison1",
+    "MobDisplayName": "Cramp",
+    "MobID": 1209,
+    "MobCount": 5
+  },
+  {
+    "Map": "gl_prison1",
+    "MobDisplayName": "Injustice",
+    "MobID": 1257,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_prison1",
+    "MobDisplayName": "Zealtous",
+    "MobID": 1200,
+    "MobCount": 1
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Argiope",
+    "MobID": 1099,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Argos",
+    "MobID": 1100,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Bigfoot",
+    "MobID": 1060,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Caramel",
+    "MobID": 1103,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Chonchon",
+    "MobID": 1011,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Coco",
+    "MobID": 1104,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Creamy",
+    "MobID": 1018,
+    "MobCount": 1
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Dustiness",
+    "MobID": 1114,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Fabre",
+    "MobID": 1007,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Horn",
+    "MobID": 1128,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Hunter Fly",
+    "MobID": 1035,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Lunatic",
+    "MobID": 1063,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Mantis",
+    "MobID": 1139,
+    "MobCount": 1
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Martin",
+    "MobID": 1145,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Pupa",
+    "MobID": 1008,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Rocker",
+    "MobID": 1052,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Savage",
+    "MobID": 1166,
+    "MobCount": 1
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Savage",
+    "MobID": 1166,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Sidewinder",
+    "MobID": 1037,
+    "MobCount": 1
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Smokie",
+    "MobID": 1056,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Snake",
+    "MobID": 1025,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Stainer",
+    "MobID": 1174,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Steel Chonchon",
+    "MobID": 1042,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Wolf",
+    "MobID": 1013,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze01",
+    "MobDisplayName": "Yoyo",
+    "MobID": 1057,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze02",
+    "MobDisplayName": "Bigfoot",
+    "MobID": 1060,
+    "MobCount": 10
+  },
+  {
+    "Map": "prt_maze02",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Argiope",
+    "MobID": 1099,
+    "MobCount": 1
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Argos",
+    "MobID": 1100,
+    "MobCount": 1
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Baphomet",
+    "MobID": 1039,
+    "MobCount": 1
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Bibfoot",
+    "MobID": 1060,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Caramel",
+    "MobID": 1103,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Coco",
+    "MobID": 1104,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Creamy",
+    "MobID": 1018,
+    "MobCount": 1
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Dustiness",
+    "MobID": 1114,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Eclipse",
+    "MobID": 1093,
+    "MobCount": 1
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Fabre",
+    "MobID": 1007,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Hunter Fly",
+    "MobID": 1035,
+    "MobCount": 1
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Lunatic",
+    "MobID": 1063,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Mantis",
+    "MobID": 1139,
+    "MobCount": 1
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Martin",
+    "MobID": 1145,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Mastering",
+    "MobID": 1090,
+    "MobCount": 1
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Pupa",
+    "MobID": 1008,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Rocker",
+    "MobID": 1052,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Savage",
+    "MobID": 1166,
+    "MobCount": 3
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Savage Babe",
+    "MobID": 1167,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Sidewinder",
+    "MobID": 1037,
+    "MobCount": 1
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Smokie",
+    "MobID": 1056,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Snake",
+    "MobID": 1025,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Stainer",
+    "MobID": 1174,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Steel Chonchon",
+    "MobID": 1042,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Vagabond Wolf",
+    "MobID": 1092,
+    "MobCount": 1
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Vocal",
+    "MobID": 1088,
+    "MobCount": 1
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Wolf",
+    "MobID": 1013,
+    "MobCount": 2
+  },
+  {
+    "Map": "prt_maze03",
+    "MobDisplayName": "Yoyo",
+    "MobID": 1057,
+    "MobCount": 2
+  },
+  {
+    "Map": "mjolnir_01",
+    "MobDisplayName": "Creamy",
+    "MobID": 1018,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjolnir_01",
+    "MobDisplayName": "Hornet",
+    "MobID": 1004,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjolnir_01",
+    "MobDisplayName": "Mandragora",
+    "MobID": 1020,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_02",
+    "MobDisplayName": "Blue Plant",
+    "MobID": 1079,
+    "MobCount": 1
+  },
+  {
+    "Map": "mjolnir_02",
+    "MobDisplayName": "Creamy",
+    "MobID": 1018,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_02",
+    "MobDisplayName": "Dustiness",
+    "MobID": 1114,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_02",
+    "MobDisplayName": "Fabre",
+    "MobID": 1007,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_02",
+    "MobDisplayName": "Green Plant",
+    "MobID": 1080,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_02",
+    "MobDisplayName": "Pupa",
+    "MobID": 1008,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_03",
+    "MobDisplayName": "Bigfoot",
+    "MobID": 1060,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjolnir_03",
+    "MobDisplayName": "Caramel",
+    "MobID": 1103,
+    "MobCount": 15
+  },
+  {
+    "Map": "mjolnir_03",
+    "MobDisplayName": "Dustiness",
+    "MobID": 1114,
+    "MobCount": 15
+  },
+  {
+    "Map": "mjolnir_03",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjolnir_03",
+    "MobDisplayName": "Rafflesia",
+    "MobID": 1162,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_03",
+    "MobDisplayName": "Shining Plant",
+    "MobID": 1083,
+    "MobCount": 1
+  },
+  {
+    "Map": "mjolnir_03",
+    "MobDisplayName": "Smokie",
+    "MobID": 1056,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjolnir_04",
+    "MobDisplayName": "Argos",
+    "MobID": 1100,
+    "MobCount": 15
+  },
+  {
+    "Map": "mjolnir_04",
+    "MobDisplayName": "Bigfoot",
+    "MobID": 1060,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_04",
+    "MobDisplayName": "Flora",
+    "MobID": 1118,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjolnir_04",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjolnir_05",
+    "MobDisplayName": "Argiope",
+    "MobID": 1099,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjolnir_05",
+    "MobDisplayName": "Blue Plant",
+    "MobID": 1079,
+    "MobCount": 3
+  },
+  {
+    "Map": "mjolnir_05",
+    "MobDisplayName": "Flora",
+    "MobID": 1118,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjolnir_05",
+    "MobDisplayName": "Hornet",
+    "MobID": 1004,
+    "MobCount": 20
+  },
+  {
+    "Map": "mjolnir_05",
+    "MobDisplayName": "Mantis",
+    "MobID": 1139,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjolnir_05",
+    "MobDisplayName": "Mistress",
+    "MobID": 1059,
+    "MobCount": 1
+  },
+  {
+    "Map": "mjolnir_04",
+    "MobDisplayName": "Red Plant",
+    "MobID": 1078,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_06",
+    "MobDisplayName": "Ambernite",
+    "MobID": 1094,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_06",
+    "MobDisplayName": "Blue Plant",
+    "MobID": 1079,
+    "MobCount": 1
+  },
+  {
+    "Map": "mjolnir_06",
+    "MobDisplayName": "Chonchon",
+    "MobID": 1011,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_06",
+    "MobDisplayName": "Coco",
+    "MobID": 1104,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_06",
+    "MobDisplayName": "Horn",
+    "MobID": 1128,
+    "MobCount": 15
+  },
+  {
+    "Map": "mjolnir_06",
+    "MobDisplayName": "Red Mushroom",
+    "MobID": 1085,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_06",
+    "MobDisplayName": "Steel Chonchon",
+    "MobID": 1042,
+    "MobCount": 15
+  },
+  {
+    "Map": "mjolnir_06",
+    "MobDisplayName": "Thief Bug",
+    "MobID": 1053,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_07",
+    "MobDisplayName": "Coco",
+    "MobID": 1104,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjolnir_07",
+    "MobDisplayName": "Horn",
+    "MobID": 1128,
+    "MobCount": 30
+  },
+  {
+    "Map": "mjolnir_07",
+    "MobDisplayName": "Lunatic",
+    "MobID": 1063,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjolnir_07",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_08",
+    "MobDisplayName": "Horn",
+    "MobID": 1128,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_08",
+    "MobDisplayName": "Lunatic",
+    "MobID": 1063,
+    "MobCount": 15
+  },
+  {
+    "Map": "mjolnir_08",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_08",
+    "MobDisplayName": "Stainer",
+    "MobID": 1174,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_08",
+    "MobDisplayName": "Yoyo",
+    "MobID": 1057,
+    "MobCount": 25
+  },
+  {
+    "Map": "mjolnir_09",
+    "MobDisplayName": "Chonchon",
+    "MobID": 1011,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjolnir_09",
+    "MobDisplayName": "Horn",
+    "MobID": 1128,
+    "MobCount": 15
+  },
+  {
+    "Map": "mjolnir_09",
+    "MobDisplayName": "Red Mushroom",
+    "MobID": 1085,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_09",
+    "MobDisplayName": "Rocker",
+    "MobID": 1052,
+    "MobCount": 20
+  },
+  {
+    "Map": "mjolnir_09",
+    "MobDisplayName": "Stainer",
+    "MobID": 1174,
+    "MobCount": 15
+  },
+  {
+    "Map": "mjolnir_09",
+    "MobDisplayName": "Steel Chonchon",
+    "MobID": 1042,
+    "MobCount": 15
+  },
+  {
+    "Map": "mjolnir_09",
+    "MobDisplayName": "Thief Bug",
+    "MobID": 1053,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjolnir_09",
+    "MobDisplayName": "Wolf",
+    "MobID": 1013,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjolnir_06",
+    "MobDisplayName": "Worm Tail",
+    "MobID": 1024,
+    "MobCount": 15
+  },
+  {
+    "Map": "mjolnir_10",
+    "MobDisplayName": "Angeling",
+    "MobID": 1096,
+    "MobCount": 1
+  },
+  {
+    "Map": "mjolnir_10",
+    "MobDisplayName": "Argiope",
+    "MobID": 1099,
+    "MobCount": 15
+  },
+  {
+    "Map": "mjolnir_10",
+    "MobDisplayName": "Argos",
+    "MobID": 1100,
+    "MobCount": 15
+  },
+  {
+    "Map": "mjolnir_10",
+    "MobDisplayName": "Mastering",
+    "MobID": 1090,
+    "MobCount": 1
+  },
+  {
+    "Map": "mjolnir_10",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 20
+  },
+  {
+    "Map": "mjolnir_10",
+    "MobDisplayName": "Shining Plant",
+    "MobID": 1083,
+    "MobCount": 1
+  },
+  {
+    "Map": "mjolnir_11",
+    "MobDisplayName": "Andre",
+    "MobID": 1095,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjolnir_11",
+    "MobDisplayName": "Ant Egg",
+    "MobID": 1097,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_11",
+    "MobDisplayName": "Deniro",
+    "MobID": 1105,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjolnir_11",
+    "MobDisplayName": "Horn",
+    "MobID": 1128,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_11",
+    "MobDisplayName": "Piere",
+    "MobID": 1160,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjolnir_11",
+    "MobDisplayName": "Rocker",
+    "MobID": 1052,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_11",
+    "MobDisplayName": "Stainer",
+    "MobID": 1174,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_12",
+    "MobDisplayName": "Ambernite",
+    "MobID": 1094,
+    "MobCount": 15
+  },
+  {
+    "Map": "mjolnir_12",
+    "MobDisplayName": "Petite",
+    "MobID": 1155,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjolnir_12",
+    "MobDisplayName": "Mantis",
+    "MobID": 1139,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_12",
+    "MobDisplayName": "Metaller",
+    "MobID": 1058,
+    "MobCount": 10
+  },
+  {
+    "Map": "mjolnir_12",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 5
+  },
+  {
+    "Map": "mjolnir_12",
+    "MobDisplayName": "Rocker",
+    "MobID": 1052,
+    "MobCount": 15
+  },
+  {
+    "Map": "mjolnir_12",
+    "MobDisplayName": "Steel Chonchon",
+    "MobID": 1042,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_fild01",
+    "MobDisplayName": "Chonchon",
+    "MobID": 1011,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild01",
+    "MobDisplayName": "Condor",
+    "MobID": 1009,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild01",
+    "MobDisplayName": "Drops",
+    "MobID": 1113,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild01",
+    "MobDisplayName": "Pecopeco",
+    "MobID": 1019,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild01",
+    "MobDisplayName": "Pecopeco Egg",
+    "MobID": 1047,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild01",
+    "MobDisplayName": "Picky",
+    "MobID": 1049,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_fild01",
+    "MobDisplayName": "Picky",
+    "MobID": 1050,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_fild01",
+    "MobDisplayName": "Yellow Plant",
+    "MobID": 1081,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild02",
+    "MobDisplayName": "Condor",
+    "MobID": 1009,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild02",
+    "MobDisplayName": "Pecopeco Egg",
+    "MobID": 1047,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild02",
+    "MobDisplayName": "Picky",
+    "MobID": 1049,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_fild02",
+    "MobDisplayName": "Picky",
+    "MobID": 1050,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_fild02",
+    "MobDisplayName": "Red Mushroom",
+    "MobID": 1085,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild02",
+    "MobDisplayName": "Savage Babe",
+    "MobID": 1167,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild03",
+    "MobDisplayName": "Lunatic",
+    "MobID": 1063,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild03",
+    "MobDisplayName": "Mastering",
+    "MobID": 1090,
+    "MobCount": 1
+  },
+  {
+    "Map": "moc_fild03",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 20
+  },
+  {
+    "Map": "moc_fild03",
+    "MobDisplayName": "Roda Frog",
+    "MobID": 1012,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild03",
+    "MobDisplayName": "Snake",
+    "MobID": 1025,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild03",
+    "MobDisplayName": "Willow",
+    "MobID": 1010,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild04",
+    "MobDisplayName": "Chonchon",
+    "MobID": 1011,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild04",
+    "MobDisplayName": "Condor",
+    "MobID": 1009,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_fild04",
+    "MobDisplayName": "Drops",
+    "MobID": 1113,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild04",
+    "MobDisplayName": "Pecopeco",
+    "MobID": 1019,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_fild04",
+    "MobDisplayName": "Pecopeco Egg",
+    "MobID": 1047,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild04",
+    "MobDisplayName": "Picky",
+    "MobID": 1049,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild04",
+    "MobDisplayName": "Picky",
+    "MobID": 1050,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild04",
+    "MobDisplayName": "Wolf",
+    "MobID": 1013,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild05",
+    "MobDisplayName": "Chonchon",
+    "MobID": 1011,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild05",
+    "MobDisplayName": "Condor",
+    "MobID": 1009,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild05",
+    "MobDisplayName": "Drops",
+    "MobID": 1113,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild05",
+    "MobDisplayName": "Pecopeco Egg",
+    "MobID": 1047,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild05",
+    "MobDisplayName": "Picky",
+    "MobID": 1049,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild05",
+    "MobDisplayName": "Picky",
+    "MobID": 1050,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild05",
+    "MobDisplayName": "Steel Chonchon",
+    "MobID": 1042,
+    "MobCount": 20
+  },
+  {
+    "Map": "moc_fild05",
+    "MobDisplayName": "Wolf",
+    "MobID": 1013,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_fild06",
+    "MobDisplayName": "Baby Desert Wolf",
+    "MobID": 1107,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild06",
+    "MobDisplayName": "Chonchon",
+    "MobID": 1011,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild06",
+    "MobDisplayName": "Condor",
+    "MobID": 1009,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild06",
+    "MobDisplayName": "Dragon Fly",
+    "MobID": 1091,
+    "MobCount": 1
+  },
+  {
+    "Map": "moc_fild06",
+    "MobDisplayName": "Drops",
+    "MobID": 1113,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild06",
+    "MobDisplayName": "Muka",
+    "MobID": 1055,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild06",
+    "MobDisplayName": "Pecopeco Egg",
+    "MobID": 1047,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild06",
+    "MobDisplayName": "Picky",
+    "MobID": 1049,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild06",
+    "MobDisplayName": "Picky",
+    "MobID": 1050,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild07",
+    "MobDisplayName": "Chonchon",
+    "MobID": 1011,
+    "MobCount": 20
+  },
+  {
+    "Map": "moc_fild07",
+    "MobDisplayName": "Drops",
+    "MobID": 1113,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild07",
+    "MobDisplayName": "Pecopeco Egg",
+    "MobID": 1047,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild07",
+    "MobDisplayName": "Picky",
+    "MobID": 1049,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild07",
+    "MobDisplayName": "Picky",
+    "MobID": 1050,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild08",
+    "MobDisplayName": "Baby Desert Wolf",
+    "MobID": 1107,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild08",
+    "MobDisplayName": "Golem",
+    "MobID": 1040,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_fild08",
+    "MobDisplayName": "Metaller",
+    "MobID": 1058,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild08",
+    "MobDisplayName": "Scorpion",
+    "MobID": 1001,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild09",
+    "MobDisplayName": "Condor",
+    "MobID": 1009,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild09",
+    "MobDisplayName": "Baby Desert Wolf",
+    "MobID": 1107,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild09",
+    "MobDisplayName": "Muka",
+    "MobID": 1055,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild09",
+    "MobDisplayName": "Pecopeco Egg",
+    "MobID": 1047,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild09",
+    "MobDisplayName": "Picky",
+    "MobID": 1049,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild09",
+    "MobDisplayName": "Picky",
+    "MobID": 1050,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild09",
+    "MobDisplayName": "Yellow Plant",
+    "MobID": 1081,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild10",
+    "MobDisplayName": "Condor",
+    "MobID": 1009,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild10",
+    "MobDisplayName": "Pecopeco",
+    "MobID": 1019,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild10",
+    "MobDisplayName": "Pecopeco Egg",
+    "MobID": 1047,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild10",
+    "MobDisplayName": "Picky",
+    "MobID": 1049,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild10",
+    "MobDisplayName": "Picky",
+    "MobID": 1050,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild11",
+    "MobDisplayName": "Andre",
+    "MobID": 1095,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_fild11",
+    "MobDisplayName": "Ant Egg",
+    "MobID": 1097,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild11",
+    "MobDisplayName": "Chonchon",
+    "MobID": 1011,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild11",
+    "MobDisplayName": "Deniro",
+    "MobID": 1105,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_fild11",
+    "MobDisplayName": "Drops",
+    "MobID": 1113,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild11",
+    "MobDisplayName": "Picky",
+    "MobID": 1049,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild11",
+    "MobDisplayName": "Picky",
+    "MobID": 1050,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild11",
+    "MobDisplayName": "Piere",
+    "MobID": 1160,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_fild11",
+    "MobDisplayName": "Shining Plant",
+    "MobID": 1083,
+    "MobCount": 1
+  },
+  {
+    "Map": "moc_fild12",
+    "MobDisplayName": "Andre",
+    "MobID": 1095,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_fild12",
+    "MobDisplayName": "Ant Egg",
+    "MobID": 1097,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild12",
+    "MobDisplayName": "Chonchon",
+    "MobID": 1011,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild12",
+    "MobDisplayName": "Drops",
+    "MobID": 1113,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild12",
+    "MobDisplayName": "Picky",
+    "MobID": 1049,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild12",
+    "MobDisplayName": "Picky",
+    "MobID": 1050,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild12",
+    "MobDisplayName": "Yellow Plant",
+    "MobID": 1081,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild13",
+    "MobDisplayName": "Condor",
+    "MobID": 1009,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild13",
+    "MobDisplayName": "Pecopeco",
+    "MobID": 1019,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_fild13",
+    "MobDisplayName": "Pecopeco Egg",
+    "MobID": 1047,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild13",
+    "MobDisplayName": "Picky",
+    "MobID": 1049,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_fild13",
+    "MobDisplayName": "Picky",
+    "MobID": 1050,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_fild13",
+    "MobDisplayName": "Red Mushroom",
+    "MobID": 1085,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild13",
+    "MobDisplayName": "Snake",
+    "MobID": 1025,
+    "MobCount": 20
+  },
+  {
+    "Map": "moc_fild13",
+    "MobDisplayName": "Yellow Plant",
+    "MobID": 1081,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild14",
+    "MobDisplayName": "Baby Desert Wolf",
+    "MobID": 1107,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_fild14",
+    "MobDisplayName": "Desert Wolf",
+    "MobID": 1058,
+    "MobCount": 30
+  },
+  {
+    "Map": "moc_fild14",
+    "MobDisplayName": "Hode",
+    "MobID": 1127,
+    "MobCount": 30
+  },
+  {
+    "Map": "moc_fild14",
+    "MobDisplayName": "Metaller",
+    "MobID": 1058,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild14",
+    "MobDisplayName": "Scorpion",
+    "MobID": 1001,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild15",
+    "MobDisplayName": "Andre",
+    "MobID": 1095,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_fild15",
+    "MobDisplayName": "Ant Egg",
+    "MobID": 1097,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild15",
+    "MobDisplayName": "Deniro",
+    "MobID": 1105,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_fild15",
+    "MobDisplayName": "Piere",
+    "MobID": 1160,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_fild15",
+    "MobDisplayName": "Scorpion",
+    "MobID": 1001,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild16",
+    "MobDisplayName": "Hode",
+    "MobID": 1127,
+    "MobCount": 20
+  },
+  {
+    "Map": "moc_fild16",
+    "MobDisplayName": "Muka",
+    "MobID": 1055,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_fild16",
+    "MobDisplayName": "Sand Man",
+    "MobID": 1165,
+    "MobCount": 25
+  },
+  {
+    "Map": "moc_fild17",
+    "MobDisplayName": "Andre",
+    "MobID": 1095,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild17",
+    "MobDisplayName": "Blue Plant",
+    "MobID": 1079,
+    "MobCount": 1
+  },
+  {
+    "Map": "moc_fild17",
+    "MobDisplayName": "Deniro",
+    "MobID": 1105,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild17",
+    "MobDisplayName": "Drops",
+    "MobID": 1113,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild17",
+    "MobDisplayName": "Frilldora",
+    "MobID": 1119,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild17",
+    "MobDisplayName": "Hode",
+    "MobID": 1127,
+    "MobCount": 20
+  },
+  {
+    "Map": "moc_fild17",
+    "MobDisplayName": "Metaller",
+    "MobID": 1058,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild17",
+    "MobDisplayName": "Piere",
+    "MobID": 1160,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_fild17",
+    "MobDisplayName": "Sand Man",
+    "MobID": 1165,
+    "MobCount": 20
+  },
+  {
+    "Map": "moc_fild17",
+    "MobDisplayName": "Yellow Plant",
+    "MobID": 1081,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild18",
+    "MobDisplayName": "Anacondaq",
+    "MobID": 1030,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_fild18",
+    "MobDisplayName": "Chonchon",
+    "MobID": 1011,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild18",
+    "MobDisplayName": "Drops",
+    "MobID": 1113,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild18",
+    "MobDisplayName": "Hode",
+    "MobID": 1127,
+    "MobCount": 50
+  },
+  {
+    "Map": "moc_fild18",
+    "MobDisplayName": "Steel Chonchon",
+    "MobID": 1042,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_fild18",
+    "MobDisplayName": "Yellow Plant",
+    "MobID": 1081,
+    "MobCount": 5
+  },
+  {
+    "Map": "job_thief1",
+    "MobDisplayName": "Black Mushroom",
+    "MobID": 1084,
+    "MobCount": 10
+  },
+  {
+    "Map": "job_thief1",
+    "MobDisplayName": "Chonchon",
+    "MobID": 1011,
+    "MobCount": 15
+  },
+  {
+    "Map": "job_thief1",
+    "MobDisplayName": "Fabre",
+    "MobID": 1007,
+    "MobCount": 10
+  },
+  {
+    "Map": "job_thief1",
+    "MobDisplayName": "Red Mushroom",
+    "MobID": 1182,
+    "MobCount": 10
+  },
+  {
+    "Map": "job_thief1",
+    "MobDisplayName": "Spore",
+    "MobID": 1014,
+    "MobCount": 15
+  },
+  {
+    "Map": "orcsdun01",
+    "MobDisplayName": "Chonchon",
+    "MobID": 1011,
+    "MobCount": 15
+  },
+  {
+    "Map": "orcsdun01",
+    "MobDisplayName": "Drainliar",
+    "MobID": 1111,
+    "MobCount": 5
+  },
+  {
+    "Map": "orcsdun01",
+    "MobDisplayName": "Farmiliar",
+    "MobID": 1005,
+    "MobCount": 15
+  },
+  {
+    "Map": "orcsdun01",
+    "MobDisplayName": "Martin",
+    "MobID": 1145,
+    "MobCount": 5
+  },
+  {
+    "Map": "orcsdun01",
+    "MobDisplayName": "Orc Zombie",
+    "MobID": 1153,
+    "MobCount": 25
+  },
+  {
+    "Map": "orcsdun01",
+    "MobDisplayName": "Orc Skeleton",
+    "MobID": 1152,
+    "MobCount": 25
+  },
+  {
+    "Map": "orcsdun01",
+    "MobDisplayName": "Steel Chonchon",
+    "MobID": 1042,
+    "MobCount": 15
+  },
+  {
+    "Map": "orcsdun02",
+    "MobDisplayName": "Chonchon",
+    "MobID": 1011,
+    "MobCount": 15
+  },
+  {
+    "Map": "orcsdun02",
+    "MobDisplayName": "Farmiliar",
+    "MobID": 1005,
+    "MobCount": 15
+  },
+  {
+    "Map": "orcsdun02",
+    "MobDisplayName": "Orc Lord",
+    "MobID": 1190,
+    "MobCount": 1
+  },
+  {
+    "Map": "orcsdun02",
+    "MobDisplayName": "Steel Chonchon",
+    "MobID": 1042,
+    "MobCount": 15
+  },
+  {
+    "Map": "orcsdun02",
+    "MobDisplayName": "Zenorc",
+    "MobID": 1177,
+    "MobCount": 25
+  },
+  {
+    "Map": "pay_dun00",
+    "MobDisplayName": "Farmiliar",
+    "MobID": 1005,
+    "MobCount": 10
+  },
+  {
+    "Map": "pay_dun00",
+    "MobDisplayName": "Black Mushroom",
+    "MobID": 1084,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_dun00",
+    "MobDisplayName": "Red Plant",
+    "MobID": 1078,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_dun00",
+    "MobDisplayName": "Snake",
+    "MobID": 1025,
+    "MobCount": 10
+  },
+  {
+    "Map": "pay_dun00",
+    "MobDisplayName": "Spore",
+    "MobID": 1014,
+    "MobCount": 20
+  },
+  {
+    "Map": "pay_dun00",
+    "MobDisplayName": "Zombie",
+    "MobID": 1015,
+    "MobCount": 20
+  },
+  {
+    "Map": "pay_dun01",
+    "MobDisplayName": "Eggyra",
+    "MobID": 1116,
+    "MobCount": 10
+  },
+  {
+    "Map": "pay_dun01",
+    "MobDisplayName": "Farmiliar",
+    "MobID": 1005,
+    "MobCount": 10
+  },
+  {
+    "Map": "pay_dun01",
+    "MobDisplayName": "Magnolia",
+    "MobID": 1138,
+    "MobCount": 20
+  },
+  {
+    "Map": "pay_dun01",
+    "MobDisplayName": "Martin",
+    "MobID": 1145,
+    "MobCount": 20
+  },
+  {
+    "Map": "pay_dun01",
+    "MobDisplayName": "Red Plant",
+    "MobID": 1078,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_dun01",
+    "MobDisplayName": "Smokie",
+    "MobID": 1056,
+    "MobCount": 30
+  },
+  {
+    "Map": "pay_dun02",
+    "MobDisplayName": "Bongun",
+    "MobID": 1188,
+    "MobCount": 15
+  },
+  {
+    "Map": "pay_dun02",
+    "MobDisplayName": "Farmiliar",
+    "MobID": 1005,
+    "MobCount": 10
+  },
+  {
+    "Map": "pay_dun02",
+    "MobDisplayName": "Magnolia",
+    "MobID": 1138,
+    "MobCount": 15
+  },
+  {
+    "Map": "pay_dun02",
+    "MobDisplayName": "Munak",
+    "MobID": 1026,
+    "MobCount": 15
+  },
+  {
+    "Map": "pay_dun02",
+    "MobDisplayName": "Red Plant",
+    "MobID": 1078,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_dun02",
+    "MobDisplayName": "Soldier Skeleton",
+    "MobID": 1028,
+    "MobCount": 10
+  },
+  {
+    "Map": "pay_dun03",
+    "MobDisplayName": "Archer Skeleton",
+    "MobID": 1016,
+    "MobCount": 10
+  },
+  {
+    "Map": "pay_dun03",
+    "MobDisplayName": "Blue Plant",
+    "MobID": 1079,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_dun03",
+    "MobDisplayName": "Bongun",
+    "MobID": 1188,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_dun03",
+    "MobDisplayName": "Magnolia",
+    "MobID": 1138,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_dun03",
+    "MobDisplayName": "Mandragora",
+    "MobID": 1020,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_dun03",
+    "MobDisplayName": "Munak",
+    "MobID": 1026,
+    "MobCount": 10
+  },
+  {
+    "Map": "pay_dun03",
+    "MobDisplayName": "Sohee",
+    "MobID": 1170,
+    "MobCount": 50
+  },
+  {
+    "Map": "pay_dun03",
+    "MobDisplayName": "Soldier Skeleton",
+    "MobID": 1028,
+    "MobCount": 10
+  },
+  {
+    "Map": "pay_dun03",
+    "MobDisplayName": "Giant Whisper",
+    "MobID": 1186,
+    "MobCount": 1
+  },
+  {
+    "Map": "pay_dun04",
+    "MobDisplayName": "White Plant",
+    "MobID": 1082,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_dun04",
+    "MobDisplayName": "Archer Skeleton",
+    "MobID": 1016,
+    "MobCount": 20
+  },
+  {
+    "Map": "pay_dun04",
+    "MobDisplayName": "Blue Plant",
+    "MobID": 1079,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_dun04",
+    "MobDisplayName": "Horong",
+    "MobID": 1129,
+    "MobCount": 25
+  },
+  {
+    "Map": "pay_dun04",
+    "MobDisplayName": "Mandragora",
+    "MobID": 1020,
+    "MobCount": 25
+  },
+  {
+    "Map": "pay_dun04",
+    "MobDisplayName": "Moonlight Flower",
+    "MobID": 1150,
+    "MobCount": 1
+  },
+  {
+    "Map": "pay_dun04",
+    "MobDisplayName": "Sohee",
+    "MobID": 1170,
+    "MobCount": 25
+  },
+  {
+    "Map": "pay_dun04",
+    "MobDisplayName": "Soldier Skeleton",
+    "MobID": 1028,
+    "MobCount": 20
+  },
+  {
+    "Map": "pay_fild01",
+    "MobDisplayName": "Fabre",
+    "MobID": 1007,
+    "MobCount": 15
+  },
+  {
+    "Map": "pay_fild01",
+    "MobDisplayName": "Lunatic",
+    "MobID": 1063,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_fild01",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 20
+  },
+  {
+    "Map": "pay_fild01",
+    "MobDisplayName": "Pupa",
+    "MobID": 1008,
+    "MobCount": 12
+  },
+  {
+    "Map": "pay_fild01",
+    "MobDisplayName": "Willow",
+    "MobID": 1010,
+    "MobCount": 35
+  },
+  {
+    "Map": "pay_fild02",
+    "MobDisplayName": "Fabre",
+    "MobID": 1007,
+    "MobCount": 15
+  },
+  {
+    "Map": "pay_fild02",
+    "MobDisplayName": "Lunatic",
+    "MobID": 1063,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_fild02",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 15
+  },
+  {
+    "Map": "pay_fild02",
+    "MobDisplayName": "Thief Bug",
+    "MobID": 1051,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_fild02",
+    "MobDisplayName": "Vagabond Wolf",
+    "MobID": 1092,
+    "MobCount": 1
+  },
+  {
+    "Map": "pay_fild02",
+    "MobDisplayName": "Willow",
+    "MobID": 1010,
+    "MobCount": 15
+  },
+  {
+    "Map": "pay_fild02",
+    "MobDisplayName": "Wolf",
+    "MobID": 1013,
+    "MobCount": 15
+  },
+  {
+    "Map": "pay_fild03",
+    "MobDisplayName": "Fabre",
+    "MobID": 1007,
+    "MobCount": 15
+  },
+  {
+    "Map": "pay_fild03",
+    "MobDisplayName": "Green Plant",
+    "MobID": 1080,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_fild03",
+    "MobDisplayName": "Lunatic",
+    "MobID": 1063,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_fild03",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 15
+  },
+  {
+    "Map": "pay_fild03",
+    "MobDisplayName": "Pupa",
+    "MobID": 1008,
+    "MobCount": 10
+  },
+  {
+    "Map": "pay_fild03",
+    "MobDisplayName": "Willow",
+    "MobID": 1010,
+    "MobCount": 10
+  },
+  {
+    "Map": "pay_fild04",
+    "MobDisplayName": "Angeling",
+    "MobID": 1096,
+    "MobCount": 1
+  },
+  {
+    "Map": "pay_fild04",
+    "MobDisplayName": "Drops",
+    "MobID": 1113,
+    "MobCount": 15
+  },
+  {
+    "Map": "pay_fild04",
+    "MobDisplayName": "Ghostring",
+    "MobID": 1120,
+    "MobCount": 1
+  },
+  {
+    "Map": "pay_fild04",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 15
+  },
+  {
+    "Map": "pay_fild04",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 15
+  },
+  {
+    "Map": "pay_fild05",
+    "MobDisplayName": "Poison Spore",
+    "MobID": 1077,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_fild05",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 10
+  },
+  {
+    "Map": "pay_fild05",
+    "MobDisplayName": "Spore",
+    "MobID": 1014,
+    "MobCount": 10
+  },
+  {
+    "Map": "pay_fild06",
+    "MobDisplayName": "Fabre",
+    "MobID": 1007,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_fild06",
+    "MobDisplayName": "Lunatic",
+    "MobID": 1063,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_fild06",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_fild06",
+    "MobDisplayName": "Pupa",
+    "MobID": 1008,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_fild06",
+    "MobDisplayName": "Roda Frog",
+    "MobID": 1012,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_fild06",
+    "MobDisplayName": "Spore",
+    "MobID": 1014,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_fild06",
+    "MobDisplayName": "Willow",
+    "MobID": 1010,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_fild07",
+    "MobDisplayName": "Bigfoot",
+    "MobID": 1060,
+    "MobCount": 20
+  },
+  {
+    "Map": "pay_fild07",
+    "MobDisplayName": "Caramel",
+    "MobID": 1103,
+    "MobCount": 20
+  },
+  {
+    "Map": "pay_fild07",
+    "MobDisplayName": "Dokebi",
+    "MobID": 1110,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_fild07",
+    "MobDisplayName": "Eggyra",
+    "MobID": 1116,
+    "MobCount": 10
+  },
+  {
+    "Map": "pay_fild07",
+    "MobDisplayName": "Poison Spore",
+    "MobID": 1077,
+    "MobCount": 20
+  },
+  {
+    "Map": "pay_fild07",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_fild08",
+    "MobDisplayName": "Bigfoot",
+    "MobID": 1060,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_fild08",
+    "MobDisplayName": "Elder Willow",
+    "MobID": 1033,
+    "MobCount": 20
+  },
+  {
+    "Map": "pay_fild08",
+    "MobDisplayName": "Poison Spore",
+    "MobID": 1077,
+    "MobCount": 20
+  },
+  {
+    "Map": "pay_fild08",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 10
+  },
+  {
+    "Map": "pay_fild08",
+    "MobDisplayName": "Smokie",
+    "MobID": 1056,
+    "MobCount": 20
+  },
+  {
+    "Map": "pay_fild08",
+    "MobDisplayName": "Willow",
+    "MobID": 1010,
+    "MobCount": 10
+  },
+  {
+    "Map": "pay_fild09",
+    "MobDisplayName": "Bigfoot",
+    "MobID": 1060,
+    "MobCount": 15
+  },
+  {
+    "Map": "pay_fild09",
+    "MobDisplayName": "Eggyra",
+    "MobID": 1116,
+    "MobCount": 10
+  },
+  {
+    "Map": "pay_fild09",
+    "MobDisplayName": "Elder Willow",
+    "MobID": 1033,
+    "MobCount": 20
+  },
+  {
+    "Map": "pay_fild09",
+    "MobDisplayName": "Poison Spore",
+    "MobID": 1077,
+    "MobCount": 20
+  },
+  {
+    "Map": "pay_fild09",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_fild09",
+    "MobDisplayName": "Sohee",
+    "MobID": 1170,
+    "MobCount": 10
+  },
+  {
+    "Map": "pay_fild09",
+    "MobDisplayName": "Wanderer",
+    "MobID": 1208,
+    "MobCount": 1
+  },
+  {
+    "Map": "pay_fild10",
+    "MobDisplayName": "Bigfoot",
+    "MobID": 1060,
+    "MobCount": 15
+  },
+  {
+    "Map": "pay_fild10",
+    "MobDisplayName": "Eddga",
+    "MobID": 1115,
+    "MobCount": 1
+  },
+  {
+    "Map": "pay_fild10",
+    "MobDisplayName": "Eggyra",
+    "MobID": 1116,
+    "MobCount": 10
+  },
+  {
+    "Map": "pay_fild10",
+    "MobDisplayName": "Horong",
+    "MobID": 1129,
+    "MobCount": 15
+  },
+  {
+    "Map": "pay_fild10",
+    "MobDisplayName": "Poison Spore",
+    "MobID": 1077,
+    "MobCount": 20
+  },
+  {
+    "Map": "pay_fild11",
+    "MobDisplayName": "Brilight",
+    "MobID": 1211,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_fild11",
+    "MobDisplayName": "Dustiness",
+    "MobID": 1114,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_fild11",
+    "MobDisplayName": "Fabre",
+    "MobID": 1007,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_fild11",
+    "MobDisplayName": "Pupa",
+    "MobID": 1008,
+    "MobCount": 10
+  },
+  {
+    "Map": "pay_fild11",
+    "MobDisplayName": "Stainer",
+    "MobID": 1174,
+    "MobCount": 5
+  },
+  {
+    "Map": "pay_fild11",
+    "MobDisplayName": "Worm Tail",
+    "MobID": 1024,
+    "MobCount": 25
+  },
+  {
+    "Map": "prt_fild00",
+    "MobDisplayName": "Creamy",
+    "MobID": 1018,
+    "MobCount": 10
+  },
+  {
+    "Map": "prt_fild00",
+    "MobDisplayName": "Fabre",
+    "MobID": 1007,
+    "MobCount": 15
+  },
+  {
+    "Map": "prt_fild00",
+    "MobDisplayName": "Hornet",
+    "MobID": 1004,
+    "MobCount": 10
+  },
+  {
+    "Map": "prt_fild00",
+    "MobDisplayName": "Lunatic",
+    "MobID": 1063,
+    "MobCount": 15
+  },
+  {
+    "Map": "prt_fild00",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 20
+  },
+  {
+    "Map": "prt_fild00",
+    "MobDisplayName": "Pupa",
+    "MobID": 1008,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild00",
+    "MobDisplayName": "Roda Frog",
+    "MobID": 1012,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild01",
+    "MobDisplayName": "Fabre",
+    "MobID": 1007,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild01",
+    "MobDisplayName": "Lunatic",
+    "MobID": 1063,
+    "MobCount": 25
+  },
+  {
+    "Map": "prt_fild01",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild01",
+    "MobDisplayName": "Pupa",
+    "MobID": 1008,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild01",
+    "MobDisplayName": "Roda Frog",
+    "MobID": 1012,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild01",
+    "MobDisplayName": "Thief Bug",
+    "MobID": 1051,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild01",
+    "MobDisplayName": "Thief Bug Egg",
+    "MobID": 1003,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild02",
+    "MobDisplayName": "Eclipse",
+    "MobID": 1093,
+    "MobCount": 1
+  },
+  {
+    "Map": "prt_fild02",
+    "MobDisplayName": "Fabre",
+    "MobID": 1007,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild02",
+    "MobDisplayName": "Lunatic",
+    "MobID": 1063,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild02",
+    "MobDisplayName": "Mandragora",
+    "MobID": 1020,
+    "MobCount": 15
+  },
+  {
+    "Map": "prt_fild02",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild02",
+    "MobDisplayName": "Pupa",
+    "MobID": 1008,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild02",
+    "MobDisplayName": "Thief Bug",
+    "MobID": 1051,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild02",
+    "MobDisplayName": "Thief Bug",
+    "MobID": 1051,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild02",
+    "MobDisplayName": "Thief Bug",
+    "MobID": 1051,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild03",
+    "MobDisplayName": "Choco",
+    "MobID": 1214,
+    "MobCount": 1
+  },
+  {
+    "Map": "prt_fild03",
+    "MobDisplayName": "Creamy",
+    "MobID": 1018,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild03",
+    "MobDisplayName": "Fabre",
+    "MobID": 1007,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild03",
+    "MobDisplayName": "Lunatic",
+    "MobID": 1063,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild03",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild03",
+    "MobDisplayName": "Pupa",
+    "MobID": 1008,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild03",
+    "MobDisplayName": "Thief Bug Egg",
+    "MobID": 1003,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild03",
+    "MobDisplayName": "Yoyo",
+    "MobID": 1057,
+    "MobCount": 15
+  },
+  {
+    "Map": "prt_fild04",
+    "MobDisplayName": "Fabre",
+    "MobID": 1007,
+    "MobCount": 15
+  },
+  {
+    "Map": "prt_fild04",
+    "MobDisplayName": "Hornet",
+    "MobID": 1004,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild04",
+    "MobDisplayName": "Lunatic",
+    "MobID": 1063,
+    "MobCount": 10
+  },
+  {
+    "Map": "prt_fild04",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 15
+  },
+  {
+    "Map": "prt_fild04",
+    "MobDisplayName": "Rocker",
+    "MobID": 1052,
+    "MobCount": 15
+  },
+  {
+    "Map": "prt_fild04",
+    "MobDisplayName": "Roda Frog",
+    "MobID": 1012,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild05",
+    "MobDisplayName": "Fabre",
+    "MobID": 1007,
+    "MobCount": 20
+  },
+  {
+    "Map": "prt_fild05",
+    "MobDisplayName": "Lunatic",
+    "MobID": 1063,
+    "MobCount": 10
+  },
+  {
+    "Map": "prt_fild05",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 35
+  },
+  {
+    "Map": "prt_fild05",
+    "MobDisplayName": "Pupa",
+    "MobID": 1008,
+    "MobCount": 10
+  },
+  {
+    "Map": "prt_fild05",
+    "MobDisplayName": "Roda Frog",
+    "MobID": 1012,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild06",
+    "MobDisplayName": "Fabre",
+    "MobID": 1007,
+    "MobCount": 15
+  },
+  {
+    "Map": "prt_fild06",
+    "MobDisplayName": "Lunatic",
+    "MobID": 1063,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild06",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild06",
+    "MobDisplayName": "Pupa",
+    "MobID": 1008,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild06",
+    "MobDisplayName": "Roda Frog",
+    "MobID": 1012,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild06",
+    "MobDisplayName": "Thief Bug",
+    "MobID": 1051,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild06",
+    "MobDisplayName": "Thief Bug Egg",
+    "MobID": 1003,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild07",
+    "MobDisplayName": "Creamy",
+    "MobID": 1018,
+    "MobCount": 10
+  },
+  {
+    "Map": "prt_fild07",
+    "MobDisplayName": "Fabre",
+    "MobID": 1007,
+    "MobCount": 15
+  },
+  {
+    "Map": "prt_fild07",
+    "MobDisplayName": "Lunatic",
+    "MobID": 1063,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild07",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 15
+  },
+  {
+    "Map": "prt_fild07",
+    "MobDisplayName": "Rocker",
+    "MobID": 1052,
+    "MobCount": 45
+  },
+  {
+    "Map": "prt_fild07",
+    "MobDisplayName": "Roda Frog",
+    "MobID": 1012,
+    "MobCount": 10
+  },
+  {
+    "Map": "prt_fild07",
+    "MobDisplayName": "Vocal",
+    "MobID": 1088,
+    "MobCount": 1
+  },
+  {
+    "Map": "prt_fild08",
+    "MobDisplayName": "Chonchon",
+    "MobID": 1011,
+    "MobCount": 20
+  },
+  {
+    "Map": "prt_fild08",
+    "MobDisplayName": "Fabre",
+    "MobID": 1007,
+    "MobCount": 25
+  },
+  {
+    "Map": "prt_fild08",
+    "MobDisplayName": "Lunatic",
+    "MobID": 1063,
+    "MobCount": 15
+  },
+  {
+    "Map": "prt_fild08",
+    "MobDisplayName": "Poring",
+    "MobID": 1002,
+    "MobCount": 50
+  },
+  {
+    "Map": "prt_fild08",
+    "MobDisplayName": "Pupa",
+    "MobID": 1008,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild08",
+    "MobDisplayName": "Roda Frog",
+    "MobID": 1012,
+    "MobCount": 15
+  },
+  {
+    "Map": "prt_fild09",
+    "MobDisplayName": "Baby Desert Wolf",
+    "MobID": 1107,
+    "MobCount": 10
+  },
+  {
+    "Map": "prt_fild09",
+    "MobDisplayName": "Chonchon",
+    "MobID": 1011,
+    "MobCount": 15
+  },
+  {
+    "Map": "prt_fild09",
+    "MobDisplayName": "Condor",
+    "MobID": 1009,
+    "MobCount": 10
+  },
+  {
+    "Map": "prt_fild09",
+    "MobDisplayName": "Drops",
+    "MobID": 1113,
+    "MobCount": 20
+  },
+  {
+    "Map": "prt_fild09",
+    "MobDisplayName": "Pecopeco Egg",
+    "MobID": 1047,
+    "MobCount": 10
+  },
+  {
+    "Map": "prt_fild09",
+    "MobDisplayName": "Picky",
+    "MobID": 1049,
+    "MobCount": 15
+  },
+  {
+    "Map": "prt_fild09",
+    "MobDisplayName": "Picky",
+    "MobID": 1050,
+    "MobCount": 15
+  },
+  {
+    "Map": "prt_fild10",
+    "MobDisplayName": "Creamy",
+    "MobID": 1018,
+    "MobCount": 10
+  },
+  {
+    "Map": "prt_fild10",
+    "MobDisplayName": "Elder Willow",
+    "MobID": 1033,
+    "MobCount": 15
+  },
+  {
+    "Map": "prt_fild10",
+    "MobDisplayName": "Lunatic",
+    "MobID": 1063,
+    "MobCount": 10
+  },
+  {
+    "Map": "prt_fild10",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 10
+  },
+  {
+    "Map": "prt_fild10",
+    "MobDisplayName": "Savage Babe",
+    "MobID": 1167,
+    "MobCount": 20
+  },
+  {
+    "Map": "prt_fild10",
+    "MobDisplayName": "Willow",
+    "MobID": 1010,
+    "MobCount": 15
+  },
+  {
+    "Map": "prt_fild11",
+    "MobDisplayName": "Coco",
+    "MobID": 1104,
+    "MobCount": 20
+  },
+  {
+    "Map": "prt_fild11",
+    "MobDisplayName": "Elder Willow",
+    "MobID": 1033,
+    "MobCount": 15
+  },
+  {
+    "Map": "prt_fild11",
+    "MobDisplayName": "Lunatic",
+    "MobID": 1063,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild11",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 10
+  },
+  {
+    "Map": "prt_fild11",
+    "MobDisplayName": "Red Mushroom",
+    "MobID": 1085,
+    "MobCount": 5
+  },
+  {
+    "Map": "prt_fild11",
+    "MobDisplayName": "Savage",
+    "MobID": 1166,
+    "MobCount": 15
+  },
+  {
+    "Map": "prt_fild11",
+    "MobDisplayName": "Savage Babe",
+    "MobID": 1167,
+    "MobCount": 25
+  },
+  {
+    "Map": "prt_fild11",
+    "MobDisplayName": "Yoyo",
+    "MobID": 1057,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_pryd01",
+    "MobDisplayName": "Farmiliar",
+    "MobID": 1005,
+    "MobCount": 20
+  },
+  {
+    "Map": "moc_pryd01",
+    "MobDisplayName": "Mimic",
+    "MobID": 1191,
+    "MobCount": 1
+  },
+  {
+    "Map": "moc_pryd01",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 20
+  },
+  {
+    "Map": "moc_pryd01",
+    "MobDisplayName": "Spore",
+    "MobID": 1014,
+    "MobCount": 30
+  },
+  {
+    "Map": "moc_pryd02",
+    "MobDisplayName": "Archer Skeleton",
+    "MobID": 1016,
+    "MobCount": 20
+  },
+  {
+    "Map": "moc_pryd02",
+    "MobDisplayName": "Drainliar",
+    "MobID": 1111,
+    "MobCount": 20
+  },
+  {
+    "Map": "moc_pryd02",
+    "MobDisplayName": "Mimic",
+    "MobID": 1191,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_pryd02",
+    "MobDisplayName": "Poporing",
+    "MobID": 1031,
+    "MobCount": 20
+  },
+  {
+    "Map": "moc_pryd02",
+    "MobDisplayName": "Soldier Skeleton",
+    "MobID": 1028,
+    "MobCount": 30
+  },
+  {
+    "Map": "moc_pryd03",
+    "MobDisplayName": "Archer Skeleton",
+    "MobID": 1016,
+    "MobCount": 20
+  },
+  {
+    "Map": "moc_pryd03",
+    "MobDisplayName": "Drainliar",
+    "MobID": 1111,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_pryd03",
+    "MobDisplayName": "Mimic",
+    "MobID": 1191,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_pryd03",
+    "MobDisplayName": "Mummy",
+    "MobID": 1041,
+    "MobCount": 40
+  },
+  {
+    "Map": "moc_pryd03",
+    "MobDisplayName": "Soldier Skeleton",
+    "MobID": 1028,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_pryd04",
+    "MobDisplayName": "Ghoul",
+    "MobID": 1036,
+    "MobCount": 20
+  },
+  {
+    "Map": "moc_pryd04",
+    "MobDisplayName": "Isis",
+    "MobID": 1029,
+    "MobCount": 20
+  },
+  {
+    "Map": "moc_pryd04",
+    "MobDisplayName": "Matyr",
+    "MobID": 1146,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_pryd04",
+    "MobDisplayName": "Mummy",
+    "MobID": 1041,
+    "MobCount": 20
+  },
+  {
+    "Map": "moc_pryd04",
+    "MobDisplayName": "Osiris",
+    "MobID": 1038,
+    "MobCount": 1
+  },
+  {
+    "Map": "moc_pryd05",
+    "MobDisplayName": "Anacondaq",
+    "MobID": 1030,
+    "MobCount": 20
+  },
+  {
+    "Map": "moc_pryd05",
+    "MobDisplayName": "Ghoul",
+    "MobID": 1036,
+    "MobCount": 5
+  },
+  {
+    "Map": "moc_pryd05",
+    "MobDisplayName": "Minorous",
+    "MobID": 1149,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_pryd05",
+    "MobDisplayName": "Mummy",
+    "MobID": 1041,
+    "MobCount": 25
+  },
+  {
+    "Map": "moc_pryd05",
+    "MobDisplayName": "Scorpion",
+    "MobID": 1001,
+    "MobCount": 20
+  },
+  {
+    "Map": "moc_pryd05",
+    "MobDisplayName": "Verit",
+    "MobID": 1032,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_pryd06",
+    "MobDisplayName": "Ghoul",
+    "MobID": 1036,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_pryd06",
+    "MobDisplayName": "Isis",
+    "MobID": 1029,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_pryd06",
+    "MobDisplayName": "Minorous",
+    "MobID": 1149,
+    "MobCount": 10
+  },
+  {
+    "Map": "moc_pryd06",
+    "MobDisplayName": "Mummy",
+    "MobID": 1041,
+    "MobCount": 20
+  },
+  {
+    "Map": "moc_pryd06",
+    "MobDisplayName": "Raydric",
+    "MobID": 1163,
+    "MobCount": 15
+  },
+  {
+    "Map": "moc_pryd06",
+    "MobDisplayName": "Verit",
+    "MobID": 1032,
+    "MobCount": 10
+  },
+  {
+    "Map": "in_sphinx1",
+    "MobDisplayName": "Anacondaq",
+    "MobID": 1030,
+    "MobCount": 35
+  },
+  {
+    "Map": "in_sphinx1",
+    "MobDisplayName": "Drainliar",
+    "MobID": 1111,
+    "MobCount": 10
+  },
+  {
+    "Map": "in_sphinx1",
+    "MobDisplayName": "Requiem",
+    "MobID": 1164,
+    "MobCount": 5
+  },
+  {
+    "Map": "in_sphinx1",
+    "MobDisplayName": "Zerom",
+    "MobID": 1178,
+    "MobCount": 25
+  },
+  {
+    "Map": "in_sphinx2",
+    "MobDisplayName": "Drainliar",
+    "MobID": 1111,
+    "MobCount": 15
+  },
+  {
+    "Map": "in_sphinx2",
+    "MobDisplayName": "Matyr",
+    "MobID": 1146,
+    "MobCount": 15
+  },
+  {
+    "Map": "in_sphinx2",
+    "MobDisplayName": "Requiem",
+    "MobID": 1164,
+    "MobCount": 15
+  },
+  {
+    "Map": "in_sphinx2",
+    "MobDisplayName": "Whisper",
+    "MobID": 1179,
+    "MobCount": 15
+  },
+  {
+    "Map": "in_sphinx2",
+    "MobDisplayName": "Zerom",
+    "MobID": 1178,
+    "MobCount": 10
+  },
+  {
+    "Map": "in_sphinx3",
+    "MobDisplayName": "Drainliar",
+    "MobID": 1111,
+    "MobCount": 20
+  },
+  {
+    "Map": "in_sphinx3",
+    "MobDisplayName": "Marduk",
+    "MobID": 1140,
+    "MobCount": 5
+  },
+  {
+    "Map": "in_sphinx3",
+    "MobDisplayName": "Matyr",
+    "MobID": 1146,
+    "MobCount": 10
+  },
+  {
+    "Map": "in_sphinx3",
+    "MobDisplayName": "Mimic",
+    "MobID": 1191,
+    "MobCount": 5
+  },
+  {
+    "Map": "in_sphinx3",
+    "MobDisplayName": "Requiem",
+    "MobID": 1164,
+    "MobCount": 35
+  },
+  {
+    "Map": "in_sphinx3",
+    "MobDisplayName": "Whisper",
+    "MobID": 1179,
+    "MobCount": 10
+  },
+  {
+    "Map": "in_sphinx4",
+    "MobDisplayName": "Evil Druid",
+    "MobID": 1117,
+    "MobCount": 1
+  },
+  {
+    "Map": "in_sphinx4",
+    "MobDisplayName": "Marduk",
+    "MobID": 1140,
+    "MobCount": 25
+  },
+  {
+    "Map": "in_sphinx4",
+    "MobDisplayName": "Matyr",
+    "MobID": 1146,
+    "MobCount": 10
+  },
+  {
+    "Map": "in_sphinx4",
+    "MobDisplayName": "Mimic",
+    "MobID": 1191,
+    "MobCount": 4
+  },
+  {
+    "Map": "in_sphinx4",
+    "MobDisplayName": "Minorous",
+    "MobID": 1149,
+    "MobCount": 5
+  },
+  {
+    "Map": "in_sphinx4",
+    "MobDisplayName": "Sidewinder",
+    "MobID": 1037,
+    "MobCount": 10
+  },
+  {
+    "Map": "in_sphinx4",
+    "MobDisplayName": "Whisper",
+    "MobID": 1179,
+    "MobCount": 20
+  },
+  {
+    "Map": "in_sphinx5",
+    "MobDisplayName": "Marduk",
+    "MobID": 1140,
+    "MobCount": 10
+  },
+  {
+    "Map": "in_sphinx5",
+    "MobDisplayName": "Mimic",
+    "MobID": 1191,
+    "MobCount": 5
+  },
+  {
+    "Map": "in_sphinx5",
+    "MobDisplayName": "Requiem",
+    "MobID": 1164,
+    "MobCount": 25
+  },
+  {
+    "Map": "in_sphinx5",
+    "MobDisplayName": "Sidewinder",
+    "MobID": 1037,
+    "MobCount": 10
+  },
+  {
+    "Map": "in_sphinx5",
+    "MobDisplayName": "Whisper",
+    "MobID": 1179,
+    "MobCount": 10
+  },
+  {
+    "Map": "treasure01",
+    "MobDisplayName": "Ghostring",
+    "MobID": 1120,
+    "MobCount": 1
+  },
+  {
+    "Map": "treasure01",
+    "MobDisplayName": "Hydra",
+    "MobID": 1068,
+    "MobCount": 60
+  },
+  {
+    "Map": "treasure01",
+    "MobDisplayName": "Kukre",
+    "MobID": 1070,
+    "MobCount": 10
+  },
+  {
+    "Map": "treasure01",
+    "MobDisplayName": "Pirate Skel",
+    "MobID": 1071,
+    "MobCount": 15
+  },
+  {
+    "Map": "treasure01",
+    "MobDisplayName": "Plankton",
+    "MobID": 1161,
+    "MobCount": 5
+  },
+  {
+    "Map": "treasure01",
+    "MobDisplayName": "Poison Spore",
+    "MobID": 1077,
+    "MobCount": 10
+  },
+  {
+    "Map": "treasure02",
+    "MobDisplayName": "Drake",
+    "MobID": 1112,
+    "MobCount": 1
+  },
+  {
+    "Map": "treasure02",
+    "MobDisplayName": "Hydra",
+    "MobID": 1068,
+    "MobCount": 20
+  },
+  {
+    "Map": "treasure02",
+    "MobDisplayName": "Megalodon",
+    "MobID": 1064,
+    "MobCount": 5
+  },
+  {
+    "Map": "treasure02",
+    "MobDisplayName": "Mimic",
+    "MobID": 1191,
+    "MobCount": 5
+  },
+  {
+    "Map": "treasure02",
+    "MobDisplayName": "Penomena",
+    "MobID": 1216,
+    "MobCount": 10
+  },
+  {
+    "Map": "treasure02",
+    "MobDisplayName": "Pirate Skel",
+    "MobID": 1071,
+    "MobCount": 10
+  },
+  {
+    "Map": "treasure02",
+    "MobDisplayName": "Thara Frog",
+    "MobID": 1034,
+    "MobCount": 5
+  },
+  {
+    "Map": "treasure02",
+    "MobDisplayName": "Trijoint",
+    "MobID": 1279,
+    "MobCount": 5
+  },
+  {
+    "Map": "treasure02",
+    "MobDisplayName": "Whisper",
+    "MobID": 1179,
+    "MobCount": 10
+  },
+  {
+    "Map": "gl_dun02",
+    "MobDisplayName": "Sting",
+    "MobID": 1207,
+    "MobCount": 5
+  },
+  {
+    "Map": "",
+    "MobDisplayName": "",
+    "MobID": "",
+    "MobCount": ""
+  },
+  {
+    "Map": "Total Mob Count",
+    "MobDisplayName": "",
+    "MobID": "",
+    "MobCount": 10411
+  }
+]
