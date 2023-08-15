@@ -1,2 +1,3 @@
 node_modules
-other/scripts/ragnadbenv
+/scripts/scriptsenv
+ragnadb.code-workspace

@@ -14,8 +14,7 @@ if not os.path.exists(csv_dir):
 if not os.path.exists(json_dir):
     os.makedirs(json_dir)
 
-# iterate over csv files in
-# that directory
+# iterate over csv files in that directory
 for filename in os.scandir(csv_dir):
     if filename.path.endswith(".csv"):  # assert that it's a csv file
         json_filename = os.path.basename(filename).split(
