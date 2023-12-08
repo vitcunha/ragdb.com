@@ -26,7 +26,7 @@ const DropEntry = ({
   return (
     <li className="dropEntry" onClick={makeDropClickable(dropID)}>
       <img
-        src={`https://quadraphonia.com/rag-stuff/item/${dropID}.png`}
+        src={`/img/item/${dropID}.png`}
         alt="a"
       />
       {itemIndex[dropID]}: {getFormattedDropRate()}%
@@ -287,31 +287,31 @@ export default function App() {
                     <li>
                       Icon (iro){" "}
                       <img
-                        src={`https://quadraphonia.com/rag-stuff/icons-playroru/${selectedItem.ID}.png`}
+                        src={`/img/icons-playroru/${selectedItem.ID}.png`}
                       ></img>{" "}
                     </li>
                     <li>
                       Icon (playroru){" "}
                       <img
-                        src={`https://quadraphonia.com/rag-stuff/item/${selectedItem.ID}.png`}
+                        src={`/img/item/${selectedItem.ID}.png`}
                       ></img>{" "}
                     </li>
                     <li>
                       Old image (bRO Veins){" "}
                       <img
-                        src={`https://quadraphonia.com/rag-stuff/collection-old/${selectedItem.ID}.png`}
+                        src={`/img/collection-old/${selectedItem.ID}.png`}
                       ></img>{" "}
                     </li>
                     <li>
                       New Image (iRO){" "}
                       <img
-                        src={`https://quadraphonia.com/rag-stuff/collection/${selectedItem.ID}.png`}
+                        src={`/img/collection/${selectedItem.ID}.png`}
                       ></img>{" "}
                     </li>
                     <li>
                       New Image (playroRU){" "}
                       <img
-                        src={`https://quadraphonia.com/rag-stuff/images-playroru/${selectedItem.ID}.png`}
+                        src={`/img/images-playroru/${selectedItem.ID}.png`}
                       ></img>{" "}
                     </li>
 
@@ -396,19 +396,19 @@ export default function App() {
                     <li>
                       RMS
                       <img
-                        src={`https://quadraphonia.com/rag-stuff/mobs-rms/${selectedMob.ID}.gif`}
+                        src={`/img/mobs-rms/${selectedMob.ID}.gif`}
                       ></img>
                     </li>
                     <li>
                       Worldrag
                       <img
-                        src={`https://quadraphonia.com/rag-stuff/mobs-worldrag/${selectedMob.ID}.gif`}
+                        src={`/img/mobs-worldrag/${selectedMob.ID}.gif`}
                       ></img>
                     </li>
                     <li>
                       PlayroRU
                       <img
-                        src={`https://quadraphonia.com/rag-stuff/mobs-playroru/${selectedMob.ID}.gif`}
+                        src={`/img/mobs-playroru/${selectedMob.ID}.gif`}
                       ></img>
                     </li>
                     <br />
